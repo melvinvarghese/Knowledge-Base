@@ -7,8 +7,10 @@
 ## 🧠 Philosophy & Mind
 <!-- Notes on philosophical theories, ethics, epistemology, and mental models -->
 
-### 🏛️ Philosophy & Wisdom
+### 🏛️ Classical Philosophy & Ancient Wisdom
 - [[The Map of Ancient Philosophy]] — The grand journey of rational thought from Pre-Socratic natural science to Socrates, Plato, Aristotle, and the Hellenistic schools.
+- [[Marcus Aurelius - Meditations]] — Practical Stoic armor from Rome’s philosopher-emperor on duty, the dichotomy of control, and death.
+- [[Aristotle - Philosophy and Major Works]] — The foundational guide to the Golden Mean, Eudaimonia, the Four Causes, and Aristotle's core treatises.
 - [[12 Japanese Wisdoms]] — 12 timeless concepts for a calmer, more meaningful, and intentional life.
   - [[Mono no Aware]] — Appreciating beauty and moments precisely because they are temporary.
   - [[Ikigai]] — Finding your reason for being where passion, talent, mission, and vocation meet.
