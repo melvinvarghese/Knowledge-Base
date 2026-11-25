@@ -29,6 +29,30 @@
 - [[Sartre's Existentialism]] — Existence precedes essence: we are radical free agents who define our own character through action.
 - [[Janusian Thinking]] — The creative ability to hold two opposing ideas in your head simultaneously.
 
+### 🔍 Critical Thinking, Logic & Epistemology
+- [[Deductive vs Inductive Arguments]] — Mathematical certainty (top-down) vs. scientific probability and likelihood (bottom-up).
+- [[Top 7 Logical Fallacies]] — Recognizing and disarming flawed reasoning (Ad Hominem, Straw Man, Slippery Slope, etc.).
+- [[Correlation vs Causation]] — Why two variables moving together does not prove one caused the other (and confounding variables).
+- [[Justified True Belief and the Gettier Problem]] — The classic definition of knowledge and why true justified beliefs can still be accidental flukes.
+- [[Descartes' Cogito and Radical Skepticism]] — Doubting all sensory reality to find the bedrock foundation: "I think, therefore I am."
+- [[Empiricism vs Rationalism]] — The battle over whether knowledge comes from sensory experience (Locke) or pure reason (Descartes).
+
+### ⚖️ Ethics & Moral Philosophy
+- [[The Trolley Problem]] — Philosophy's quintessential moral dilemma testing Utilitarian calculation against Kantian duties.
+- [[Utilitarianism - Bentham and Mill]] — Maximizing the greatest happiness for the greatest number, and the debate over quantity vs. quality.
+- [[Kantian Deontology and the Categorical Imperative]] — Duty-based ethics: universal moral laws and treating humans as ends, never tools.
+- [[Virtue Ethics]] — Building practical character and finding the Golden Mean rather than relying on calculators or rulebooks.
+
+### 🌌 Metaphysics & Philosophy of Mind
+- [[The Ship of Theseus]] — The ancient paradox of identity: if every part of an object is replaced over time, is it still the same thing?
+- [[The Mind-Body Problem - Dualism vs Physicalism]] — The mystery of how conscious thoughts relate to physical brain tissue.
+- [[Free Will, Determinism, and Compatibilism]] — Whether human choice is an illusion of physical causes or genuine personal agency.
+- [[Searle's Chinese Room Argument]] — Why running computer code and manipulating syntax can never produce true semantic understanding.
+
+### 🏛️ Political Philosophy & Justice
+- [[The Social Contract - Hobbes, Locke, and Rousseau]] — Why we surrender some freedoms to the state in exchange for security, rights, and order.
+- [[John Rawls - The Veil of Ignorance]] — Designing a truly fair society by choosing rules without knowing who you will be born as.
+
 ### 🎭 Personality & Psychodynamics
 - [[The Big Five Personality Traits]] — The gold standard OCEAN framework measuring personality on five independent spectrums.
 - [[Id, Ego, and Superego]] — The mind's constant negotiation between primal desires (Id), moral guilt (Superego), and reality (Ego).
