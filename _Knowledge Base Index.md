@@ -6,6 +6,8 @@
 
 ## 🧠 Philosophy & Mind
 <!-- Notes on philosophical theories, ethics, epistemology, and mental models -->
+
+### 🏛️ Philosophy & Wisdom
 - [[12 Japanese Wisdoms]] — 12 timeless concepts for a calmer, more meaningful, and intentional life.
   - [[Mono no Aware]] — Appreciating beauty and moments precisely because they are temporary.
   - [[Ikigai]] — Finding your reason for being where passion, talent, mission, and vocation meet.
@@ -19,15 +21,49 @@
   - [[Kintsugi]] — Repairing broken pottery with gold; honoring personal scars and history.
   - [[Shinrin-Yoku]] — Forest bathing to calm the nervous system and absorb nature's healing.
   - [[Gaman]] — Enduring unexpected hardship with patience, calm composure, and quiet dignity.
-- [[The Big Five Personality Traits]] — The gold standard OCEAN framework measuring personality on five spectrums.
-- [[Locus of Control]] — Believing you drive your own life (internal) versus life happening to you (external).
 - [[Sartre's Existentialism]] — Existence precedes essence: we are radical free agents who define our own character through action.
-- [[Survivorship Bias]] — The mistake of only looking at the surviving examples and ignoring the failures that didn't make it back.
-- [[Metacognition]] — Thinking about your own thinking to make better choices and understand yourself.
-- [[Maladaptive Daydreaming]] — When daydreaming becomes an uncontrollable escape that interferes with daily life.
 - [[Janusian Thinking]] — The creative ability to hold two opposing ideas in your head simultaneously.
-- [[Main Character Energy]] — How romanticizing small daily moments tricks your brain into happiness and lower stress.
+
+### 🎭 Personality & Psychodynamics
+- [[The Big Five Personality Traits]] — The gold standard OCEAN framework measuring personality on five independent spectrums.
+- [[Id, Ego, and Superego]] — The mind's constant negotiation between primal desires (Id), moral guilt (Superego), and reality (Ego).
+- [[Psychological Defense Mechanisms]] — How the unconscious mind distorts reality (denial, projection, sublimation) to protect the ego.
+- [[Carl Jung - Archetypes and Collective Unconscious]] — Universal symbols, myths, and ancestral instincts inherited across all cultures.
+- [[The Persona and the Shadow]] — Balancing the polite social mask we show the world with the hidden dark side we repress.
+- [[Alfred Adler - Inferiority Complex]] — How childhood feelings of inadequacy drive lifelong striving for mastery or superiority.
+- [[Erik Erikson - 8 Stages of Psychosocial Development]] — The 8 psychological crises human beings navigate from infancy to old age.
+- [[Allport's Trait Theory]] — Cardinal, Central, and Secondary traits that form individual human character.
+- [[Eysenck's PEN Model]] — The biological roots of personality across Psychoticism, Extraversion, and Neuroticism.
+- [[Cattell's 16 Personality Factors]] — The 16 deep source traits that mathematically explain human behavior.
+- [[Type A and Type B Personality]] — High-strung, impatient time-urgency (Type A) vs. easygoing, relaxed pacing (Type B).
+- [[The Dark Triad]] — The toxic personality cluster: Narcissism (ego), Machiavellianism (manipulation), and Psychopathy (callousness).
+- [[Self-Monitoring Theory]] — Social chameleons who adapt to every room (High) vs. authentic individuals true to their inner core (Low).
+
+### 🌻 Humanistic & Growth Psychology
+- [[Maslow's Hierarchy of Needs]] — The pyramid of human motivation from physical survival to peak self-actualization.
+- [[Self-Actualization]] — Realizing your full human potential, craft, and autonomy independent of outside praise.
+- [[Carl Rogers - Self-Concept and Congruence]] — Closing the painful gap between your real self and your idealized fantasy self.
+- [[Unconditional Positive Regard]] — Showing total non-judgmental acceptance to unlock healing and personal growth.
+- [[Growth Mindset vs Fixed Mindset]] — Believing talent can be built through effort rather than being an unchangeable genetic trait.
+
+### ⚡ Behavioral & Social-Cognitive Psychology
+- [[Locus of Control]] — Believing you drive your own life (internal) versus life happening to you (external).
+- [[Bandura's Self-Efficacy Theory]] — Believing in your capability to execute specific tasks and push past setbacks.
+- [[Social Learning Theory]] — How humans learn behavior, manners, and aggression by watching and imitating models.
+- [[Reciprocal Determinism]] — The two-way feedback loop between your internal beliefs, your behavior, and your environment.
+- [[Learned Helplessness]] — Why repeated uncontrollable hardship tricks the brain into giving up, and how to unlearn it.
+- [[Cognitive Dissonance]] — The acute mental tension when your actions contradict your values, and how the ego rationalizes it.
+- [[Classical vs Operant Conditioning]] — Automatic stimulus reflexes (Pavlov) vs. voluntary choice shaped by rewards and punishments (Skinner).
+
+### 🧠 Mind, Emotion & Mental Models
+- [[Attachment Theory]] — How childhood bonds shape adult romantic trust, anxiety, and intimacy styles.
+- [[Emotional Intelligence]] — The 4 quadrants of self-awareness, self-regulation, empathy, and relationship management.
+- [[Flow State]] — The sweet spot where high challenge meets high skill, resulting in deep absorption and timeless focus.
+- [[Metacognition]] — Thinking about your own thinking to make better choices and understand yourself.
+- [[Survivorship Bias]] — The mistake of only looking at the surviving examples and ignoring the failures that didn't make it back.
 - [[The Hawthorne Effect]] — Why people naturally work harder and stay focused when they know they are being observed.
+- [[Maladaptive Daydreaming]] — When daydreaming becomes an uncontrollable escape that interferes with daily life.
+- [[Main Character Energy]] — How romanticizing small daily moments tricks your brain into happiness and lower stress.
 
 ## 🔬 Science & Technology
 <!-- Notes on tech, programming, engineering, math, and natural sciences -->
