@@ -19,6 +19,7 @@
   - [[Kintsugi]] — Repairing broken pottery with gold; honoring personal scars and history.
   - [[Shinrin-Yoku]] — Forest bathing to calm the nervous system and absorb nature's healing.
   - [[Gaman]] — Enduring unexpected hardship with patience, calm composure, and quiet dignity.
+- [[Sartre's Existentialism]] — Existence precedes essence: we are radical free agents who define our own character through action.
 - [[Survivorship Bias]] — The mistake of only looking at the surviving examples and ignoring the failures that didn't make it back.
 - [[Metacognition]] — Thinking about your own thinking to make better choices and understand yourself.
 - [[Maladaptive Daydreaming]] — When daydreaming becomes an uncontrollable escape that interferes with daily life.
