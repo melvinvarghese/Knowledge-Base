@@ -104,14 +104,30 @@
 - [[The Big Bang and the Universe]] — The origin of space and time 13.8 billion years ago, cosmic expansion, and dark matter.
 - [[Black Holes and Spacetime]] — Infinite density singularities, event horizons, time dilation, and warped gravity.
 
-### 🌍 Earth & Nature
+### 🌋 Earth, Geology & Climate
 - [[Earth's Layers and Plate Tectonics]] — Crust, mantle, outer liquid core, continental drift, and the Ring of Fire.
+- [[Volcanoes and Magma]] — Shield vs. composite volcanoes, pyroclastic flows, lahars, and magma chambers.
+- [[Earthquakes and Tsunamis]] — Seismic P, S, and surface waves, the underwater displacement mechanics of tsunamis.
 - [[The Atmosphere and the Water Cycle]] — The 5 atmospheric shields, the ozone layer, and the planet's closed water loop.
-- [[The Cell - How Life Works]] — The microscopic factories of life, prokaryotes vs eukaryotes, and organelle machinery.
+- [[Weather Systems and Extreme Storms]] — High vs. low pressure, the Coriolis effect, hurricane eyes, and supercell tornadoes.
 
-### ⚛️ Physics & Fundamentals of Matter
+### 🧬 Biology & The Living World
+- [[The Cell - How Life Works]] — The microscopic factories of life, prokaryotes vs. eukaryotes, and organelle machinery.
+- [[Evolution and Natural Selection]] — Darwin’s 4 pillars, reproductive fitness, and the mechanisms of adaptation.
+- [[The Tree of Life - Biological Classification]] — Taxonomy hierarchy (Dear King Philip), the 3 domains, and binomial naming.
+- [[Photosynthesis - How Plants Power Life]] — Converting sunlight, water, and $CO_2$ into glucose and life-giving oxygen.
+- [[Dinosaurs and the Mesozoic Era]] — Triassic, Jurassic, and Cretaceous periods, the Chicxulub asteroid impact, and avian evolution.
+
+### 🫀 The Human Body & Medicine
+- [[The Human Brain and Nervous System]] — 86 billion neurons, the 4 cerebral lobes, synapses, and autonomic responses.
+- [[The Circulatory System - The Heart and Blood]] — The 4-chambered pump, pulmonary vs. systemic circuits, and blood components.
+- [[The Immune System - Defense Against Disease]] — Physical barriers, innate macrophage patrols, and adaptive antibody memory.
+- [[Genetics and DNA - The Blueprint of Life]] — The double helix, A-T / C-G base pairing, transcription, and translation into proteins.
+
+### ⚛️ Physics & The Electromagnetic World
 - [[The Atom and Matter]] — Protons, neutrons, electrons, chemical bonding, and the 4 states of matter.
 - [[Newton's Laws of Motion]] — Inertia, F=ma, action-reaction, and the universal laws of gravitation.
+- [[The Electromagnetic Spectrum]] — From long radio waves to visible colors, medical X-rays, and cosmic gamma rays.
 
 ## 💼 Projects & Work
 <!-- Active projects, goals, and professional topics -->
