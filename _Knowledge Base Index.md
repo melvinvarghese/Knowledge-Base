@@ -9,6 +9,8 @@
 
 ### 🏛️ Classical Philosophy & Ancient Wisdom
 - [[The Map of Ancient Philosophy]] — The grand journey of rational thought from Pre-Socratic natural science to Socrates, Plato, Aristotle, and the Hellenistic schools.
+- [[Lao Tzu - Tao Te Ching]] — The classic of Taoism on effortless action (Wu Wei), yielding like water, and living in alignment with nature.
+- [[Sun Tzu - The Art of War]] — The ancient strategy masterpiece on winning without fighting, psychological leverage, and adaptability.
 - [[Marcus Aurelius - Meditations]] — Practical Stoic armor from Rome’s philosopher-emperor on duty, the dichotomy of control, and death.
 - [[Aristotle - Philosophy and Major Works]] — The foundational guide to the Golden Mean, Eudaimonia, the Four Causes, and Aristotle's core treatises.
 - [[12 Japanese Wisdoms]] — 12 timeless concepts for a calmer, more meaningful, and intentional life.
