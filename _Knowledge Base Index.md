@@ -8,6 +8,7 @@
 <!-- Notes on philosophical theories, ethics, epistemology, and mental models -->
 
 ### 🏛️ Philosophy & Wisdom
+- [[The Map of Ancient Philosophy]] — The grand journey of rational thought from Pre-Socratic natural science to Socrates, Plato, Aristotle, and the Hellenistic schools.
 - [[12 Japanese Wisdoms]] — 12 timeless concepts for a calmer, more meaningful, and intentional life.
   - [[Mono no Aware]] — Appreciating beauty and moments precisely because they are temporary.
   - [[Ikigai]] — Finding your reason for being where passion, talent, mission, and vocation meet.
