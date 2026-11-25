@@ -2,7 +2,7 @@
 
 > A comprehensive personal knowledge vault covering core foundational concepts across the sciences, humanities, philosophy, mind, and technology.
 
-**Total Notes in Vault:** 554
+**Total Notes in Vault:** 590
 
 ---
 
@@ -86,7 +86,7 @@
 - [[Virtue Ethics]]
 - [[Wabi-Sabi]]
 
-## Science & Technology\Animal Kingdom & Zoology (50 notes)
+## Science & Technology\Animal Kingdom & Zoology (55 notes)
 
 - [[Amphibians - Life Between Water and Land]]
 - [[Animal Communication - Chemical, Acoustic, and Visual Displays]]
@@ -131,17 +131,23 @@
 - [[Spider Silk - Natural Polymer Engineering]]
 - [[Spiders and Arachnids]]
 - [[Symbiosis - Mutualism, Commensalism, and Parasitism]]
+- [[Tardigrades and Cryptobiosis - Surviving Extremes]]
+- [[The Axolotl - Flawless Organ and Tissue Regeneration]]
 - [[The Evolutionary Biology of Color - Pigments vs Structural Color]]
 - [[The Great Barrier Reef - Coral Polyps and Marine Biodiversity]]
+- [[The Immortal Jellyfish - Biological Reversal of Aging]]
+- [[The Mantis Shrimp's Cavitation Strike]]
 - [[The Physics of Bird Flight - Lift, Thrust, and Feathers]]
+- [[The Pistol Shrimp - Acoustic Flash Weaponry]]
 - [[The Symbiosis Spectrum - Mutualism, Commensalism, and Parasitism]]
 - [[Thermal Regulation - Ectotherms vs Endotherms]]
 - [[Venomous Snakes - Viper and Elapid Delivery Systems]]
 - [[Whales and Cetaceans - Mammalian Ocean Giants]]
 
-## Science & Technology\Chemistry & Elements (43 notes)
+## Science & Technology\Chemistry & Elements (46 notes)
 
 - [[Acids, Bases, and the pH Scale]]
+- [[Aerogels - Frozen Smoke and Solid Air]]
 - [[Alkali Metals - Group 1 Reactivity and Flame Colors]]
 - [[Carbon - The Element of Life and Allotropes]]
 - [[Catalysts and Enzymes - Lowering Activation Energy]]
@@ -173,9 +179,11 @@
 - [[Rare Earth Elements - The High-Tech Metals]]
 - [[Salts and Electrolytes - Ionic Solutions]]
 - [[Silicon - The Backbone of Modern Electronics]]
+- [[Sonoluminescence - Turning Sound into Light and Heat]]
 - [[Spectroscopy - How Light Identifies Elements]]
 - [[States of Matter - Solid, Liquid, Gas, and Plasma]]
 - [[States of Matter and Phase Transitions]]
+- [[Supercritical Carbon Dioxide - Industrial Green Solvent]]
 - [[Supercritical Fluids and Phase Diagrams]]
 - [[The Atom and Matter]]
 - [[The Chemistry of Water - Hydrogen Bonding and Anomalies]]
@@ -185,7 +193,7 @@
 - [[Transition Metals - d-Block Catalysts and Colored Compounds]]
 - [[Water as the Universal Solvent - Polarity and Hydrogen Bonds]]
 
-## Science & Technology\Earth & Geology (60 notes)
+## Science & Technology\Earth & Geology (64 notes)
 
 - [[Caves and Karst Landscapes - Underground Water Carving]]
 - [[Caves and Karst Landscapes]]
@@ -208,6 +216,7 @@
 - [[Glaciers and Ice Ages]]
 - [[Hotspots and Mantle Plumes - Hawaii and Yellowstone]]
 - [[Hydrothermal Mineral Deposits and Ore Formation]]
+- [[Lake Baikal - Ancient Rift Lake of Deep Freshwater]]
 - [[Magnetic Field Reversals - Geomagnetic Polarity Transitions]]
 - [[Mass Wasting - Landslides, Mudflows, and Rockfalls]]
 - [[Mid-Atlantic Ridge - Underwater Mountain Range]]
@@ -229,6 +238,9 @@
 - [[The Atmosphere and the Water Cycle]]
 - [[The Carbon Cycle - Geologic and Biological Fluxes]]
 - [[The Carbon Cycle]]
+- [[The Cave of the Crystals - Naica's Subterranean Giants]]
+- [[The Danakil Depression and Erta Ale Lava Lake]]
+- [[The Deep Mantle Transition Zone and Ringwoodite Ocean]]
 - [[The Deep Sea - Trenches and Hydrothermal Vents]]
 - [[The Earth's Magnetic Field and the Geodynamo]]
 - [[The Grand Canyon - Strata and River Carving]]
@@ -248,8 +260,9 @@
 - [[Weather Systems and Extreme Storms]]
 - [[Weathering and Erosion]]
 
-## Science & Technology\Human Anatomy & Physiology (55 notes)
+## Science & Technology\Human Anatomy & Physiology (59 notes)
 
+- [[ATP Synthase - The Body's Rotary Molecular Engine]]
 - [[Blood Cells - Erythrocytes, Leukocytes, and Platelets]]
 - [[Blood Types and the ABO System]]
 - [[Blood Vessels - Arteries, Arterioles, Capillaries, and Veins]]
@@ -258,6 +271,7 @@
 - [[Cellular Respiration - How Cells Produce ATP]]
 - [[Hemoglobin and Oxygen Transport]]
 - [[Human Reproduction and Development]]
+- [[Myelin Sheaths and Saltatory Conduction]]
 - [[Sensory Receptors - How the Body Senses the World]]
 - [[Skeletal Muscle Contraction - The Sliding Filament Model]]
 - [[Skin - The Integumentary Barrier System]]
@@ -267,6 +281,7 @@
 - [[Sympathetic vs Parasympathetic - Fight or Flight]]
 - [[Synovial Joints and Cartilage Mechanics]]
 - [[Synovial Joints and Cartilage]]
+- [[The Blood-Brain Barrier - The Cellular Fortress]]
 - [[The Cardiac Cycle - Systole, Diastole, and Heart Valves]]
 - [[The Central Nervous System - Brain and Spinal Cord]]
 - [[The Circulatory System - The Heart and Blood]]
@@ -280,6 +295,7 @@
 - [[The Eye and Vision - Rods, Cones, and the Retina]]
 - [[The Five Senses and Sensory Receptors]]
 - [[The Gallbladder and Pancreas - Digestive Allies]]
+- [[The Glymphatic System - The Brain's Nighttime Wash Cycle]]
 - [[The Human Brain and Nervous System]]
 - [[The Human Eye and Vision]]
 - [[The Human Heartbeat - Sinoatrial Node and Pacemaker]]
@@ -306,7 +322,7 @@
 - [[Thermal Homeostasis - Sweating, Shivering, and Blood Flow]]
 - [[Thermoregulation - Sweating, Shivering, and Vasodilation]]
 
-## Science & Technology\Inventions & Computing (38 notes)
+## Science & Technology\Inventions & Computing (41 notes)
 
 - [[Artificial Intelligence - From Expert Systems to Neural Networks]]
 - [[Artificial Intelligence and Computing]]
@@ -332,7 +348,9 @@
 - [[Renewable Energy - Solar, Wind, and Hydroelectric]]
 - [[Robotics and Autonomous Navigation - SLAM Algorithms]]
 - [[Satellites and the Global Positioning System (GPS)]]
+- [[Scanning Tunneling Microscopes - Seeing Individual Atoms]]
 - [[Semiconductors and the Microchip Revolution]]
+- [[Superconducting Maglev Trains - Zero-Friction Transit]]
 - [[The Electrical Grid - AC Current and the War of the Currents]]
 - [[The Internal Combustion Engine - Otto Cycle and Mobility]]
 - [[The Internal Combustion Engine - The Four-Stroke Cycle]]
@@ -346,8 +364,9 @@
 - [[The Telephone and Telecommunications]]
 - [[The Transistor - The Greatest Invention of the 20th Century]]
 - [[The World Wide Web - Tim Berners-Lee and Hypertext]]
+- [[Tokamak Fusion Reactors and Toroidal Magnetic Traps]]
 
-## Science & Technology\Medicine & Disease (42 notes)
+## Science & Technology\Medicine & Disease (45 notes)
 
 - [[Alzheimer's Disease - Amyloid Plaques and Tau Tangles]]
 - [[Anesthesia - The History and Chemistry of Painless Surgery]]
@@ -355,6 +374,7 @@
 - [[Autoimmune Diseases - When the Body Attacks Itself]]
 - [[Autoimmune Diseases - When the Immune System Attacks Self]]
 - [[Bacterial Infections vs Viral Infections]]
+- [[Bacteriophages - Viral Predators of Bacteria]]
 - [[Blood Types - The ABO and Rh Antigen Systems]]
 - [[Cancer Biology - Oncogenes, Tumor Suppressors, and Metastasis]]
 - [[Cancer and Cell Cycle Malfunction]]
@@ -375,6 +395,7 @@
 - [[Organ Transplantation and Immunosuppression]]
 - [[Pharmacology - How Drugs Work in the Body]]
 - [[Prions - The Infectious Misfolded Proteins]]
+- [[Prions and Transmissible Spongiform Encephalopathies]]
 - [[Public Health, Sanitation, and Clean Water]]
 - [[Stem Cells and Regenerative Medicine]]
 - [[Stem Cells and Tissue Regeneration]]
@@ -391,11 +412,13 @@
 - [[Viruses - The Borderline of Life]]
 - [[Viruses vs Bacteria vs Parasites - The Pathogen Spectrum]]
 - [[Zoonotic Diseases - Spillover from Wildlife to Humans]]
+- [[p53 - The Guardian of the Genome and Cancer Suppression]]
 
-## Science & Technology\Physics & Mechanics (49 notes)
+## Science & Technology\Physics & Mechanics (52 notes)
 
 - [[Acoustics and Sound Waves - Frequency and Resonance]]
 - [[Bernoulli's Principle - Fluid Dynamics and Airplane Wings]]
+- [[Cavitation - The Physics of Collapsing Vapor Voids]]
 - [[Center of Gravity, Torque, and Rotational Equilibrium]]
 - [[Centripetal Force - Circular Motion and Orbits]]
 - [[Centripetal Force and Orbital Motion]]
@@ -426,6 +449,7 @@
 - [[Projectile Motion and Ballistics Trajectories]]
 - [[Quantum Mechanics - Superposition and Entanglement]]
 - [[Quantum Mechanics - The Bizarre Subatomic Realm]]
+- [[Quantum Teleportation and Entanglement Networks]]
 - [[Radioactivity and Nuclear Fission]]
 - [[Semiconductors and the p-n Junction]]
 - [[Simple Machines - Levers, Pulleys, and Mechanical Advantage]]
@@ -436,6 +460,7 @@
 - [[The Doppler Effect - Sound and Light Shifts]]
 - [[The Electromagnetic Spectrum]]
 - [[The Higgs Boson - The Origin of Mass]]
+- [[The Meissner Effect and Superconducting Levitation]]
 - [[The Quantum Hall Effect and Resistance Metrology]]
 - [[The Speed of Light - The Universal Limit]]
 - [[The Standard Model of Particle Physics - Quarks and Leptons]]
@@ -492,17 +517,19 @@
 - [[Tundra and Permafrost - Life on the Frozen Edge]]
 - [[Xylem and Phloem - The Plant Vascular Plumbing]]
 
-## Science & Technology\Prehistory & Dinosaurs (39 notes)
+## Science & Technology\Prehistory & Dinosaurs (44 notes)
 
 - [[Allosaurus - Apex Predator of the Jurassic]]
 - [[Ammonites and Belemnites - The Shelled Cephalopods]]
 - [[Ankylosaurs - The Living Cretaceous Tanks]]
 - [[Archaeopteryx - The First Bird]]
+- [[Carboniferous Hyper-Oxygenation and Giant Arthropods]]
 - [[Carnotaurus and Abelisaurids - The Horned Sprinters]]
 - [[Ceratopsian Evolution - Horns, Beaks, and Frills]]
 - [[Deinonychus and the Dinosaur Renaissance]]
 - [[Dimetrodon and the Synapsids - Mammal-like Reptiles]]
 - [[Dinosaurs and the Mesozoic Era]]
+- [[Dunkleosteus - The Armored Devonian Megapredator]]
 - [[Human Evolution - From Australopithecus to Homo Sapiens]]
 - [[Ice Age Megafauna - Smilodon, Glyptodonts, and Ground Sloths]]
 - [[Ice Age Megafauna - Woolly Mammoths and Saber-Toothed Cats]]
@@ -515,11 +542,13 @@
 - [[Plesiosaurs and Pliosaurs - Four-Winged Ocean Predators]]
 - [[Pterosaur Aerodynamics - Quetzalcoatlus and Flight]]
 - [[Pterosaurs - Reptiles of the Mesozoic Skies]]
+- [[Quetzalcoatlus - Giraffe-Sized Flying Predator]]
 - [[Sauropod Anatomy - The Engineering of Gigantism]]
 - [[Sauropods - The Long-Necked Giants]]
 - [[Spinosaurus - The Giant River Hunter]]
 - [[Stegosaurs - Plates, Spikes, and Thagomizers]]
 - [[The Cambrian Explosion - Rise of Complex Life]]
+- [[The Cambrian Monsters - Anomalocaris and Opabinia]]
 - [[The Carboniferous Period - Giant Insects and Coal Forests]]
 - [[The Chicxulub Impactor - The Day the Dinosaurs Died]]
 - [[The Ediacaran Biota - Earth's First Complex Life]]
@@ -529,12 +558,13 @@
 - [[Therizinosaurus - The Scythe-Clawed Mystery]]
 - [[Theropod Evolution - The Path to Birds]]
 - [[Tiktaalik and the Fish-to-Tetrapod Transition]]
+- [[Titanoboa - The Giant Paleocene Swampland Constrictor]]
 - [[Triceratops and Ceratopsians - Horned Herbivores]]
 - [[Trilobites - Rulers of the Paleozoic Seas]]
 - [[Tyrannosaurus Rex - The Apex Predator]]
 - [[Velociraptor and Dromaeosaurs - Feathered Hunters]]
 
-## Science & Technology\Space & Astronomy (62 notes)
+## Science & Technology\Space & Astronomy (68 notes)
 
 - [[Apollo 11 - The Moon Landing]]
 - [[Asteroids, Meteors, and Meteorites]]
@@ -546,6 +576,7 @@
 - [[Cosmic Rays - Ultra-High-Energy Particles from Deep Space]]
 - [[Dark Energy and the Accelerating Expansion]]
 - [[Dark Matter - The Invisible Web of the Universe]]
+- [[Diamond Rain on Neptune and Uranus]]
 - [[Europa and Enceladus - Subsurface Oceans and Cryovolcanism]]
 - [[Exoplanet Detection - Transit, Radial Velocity, and Direct Imaging]]
 - [[Exoplanets - Worlds Beyond Our Solar System]]
@@ -564,10 +595,13 @@
 - [[Mercury - The Iron Planet]]
 - [[Nebulae - Stellar Nurseries]]
 - [[Neptune - The Windy Outpost]]
+- [[Neutron Star Crust and Nuclear Pasta]]
 - [[Neutron Stars and Pulsars]]
+- [[Olympus Mons and Valles Marineris - Martian Giants]]
 - [[Planetary Rings - The Mechanics of Saturn's Debris Disks]]
 - [[Pluto and Dwarf Planets]]
 - [[Quasars - Beacons Powered by Supermassive Black Holes]]
+- [[Rogue Planets - Nomad Worlds of Interstellar Space]]
 - [[Saturn - Rings and Moons]]
 - [[Solar Eclipses and Lunar Eclipses]]
 - [[Solar Flares and Coronal Mass Ejections]]
@@ -580,6 +614,7 @@
 - [[The Big Bang and the Universe]]
 - [[The Cosmic Microwave Background - Baby Picture of the Universe]]
 - [[The Fate of the Universe - Big Freeze to Big Rip]]
+- [[The James Webb Space Telescope's Cryogenic Sunshield]]
 - [[The James Webb Space Telescope]]
 - [[The Life Cycle of Stars]]
 - [[The Life Cycle of White Dwarfs and Planetary Nebulae]]
@@ -587,6 +622,7 @@
 - [[The Moon - Earth's Satellite]]
 - [[The Multiverse Hypothesis - Inflation and String Theory Models]]
 - [[The Oort Cloud - The Solar System's Deep Freeze Boundary]]
+- [[The Pillars of Creation - Eagle Nebula Star Hatchery]]
 - [[The Pioneer and New Horizons Missions - Outer Border Explorers]]
 - [[The Solar Corona and the Heating Paradox]]
 - [[The Solar System - Rocky Planets vs Gas Giants]]
