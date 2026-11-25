@@ -58,3 +58,4 @@ Why do we develop an unrealistic Ideal Self?
 - [[The Persona and the Shadow]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

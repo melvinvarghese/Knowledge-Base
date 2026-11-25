@@ -30,3 +30,4 @@ Synthetic Chemical -> Mimics Endogenous Hormone -> Binds Hormone Receptor -> Dis
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

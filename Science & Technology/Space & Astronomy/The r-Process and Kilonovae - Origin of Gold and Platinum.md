@@ -30,3 +30,4 @@ Neutron Star Merger -> Neutron-Rich Ejecta -> r-Process Nuclei -> Heavy Elements
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

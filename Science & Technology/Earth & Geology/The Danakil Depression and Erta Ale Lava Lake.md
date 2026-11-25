@@ -30,3 +30,4 @@ Triple Junction Plate Rifting -> Magmatic Intrusion -> Acidic Evaporite Springs 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

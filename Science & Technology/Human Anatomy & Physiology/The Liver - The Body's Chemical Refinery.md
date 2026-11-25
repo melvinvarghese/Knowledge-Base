@@ -30,3 +30,4 @@ Gut Nutrient Blood -> Hepatic Portal Vein -> Liver Lobule Hepatocyte Processing 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

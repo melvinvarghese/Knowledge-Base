@@ -30,3 +30,4 @@ Eternal Inflaton Field -> Quantum Fluctuations Decay -> Multiple Bubble Universe
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

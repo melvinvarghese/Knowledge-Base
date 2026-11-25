@@ -51,3 +51,4 @@ To discover your sweet spot, look at the intersection of four questions:
 - [[Shoshin]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

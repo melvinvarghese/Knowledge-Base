@@ -30,3 +30,4 @@ Pivot Point -> Moment Arm r * Perpendicular Force F = Rotational Torque
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

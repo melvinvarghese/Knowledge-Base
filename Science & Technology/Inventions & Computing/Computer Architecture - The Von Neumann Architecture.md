@@ -30,3 +30,4 @@ Control Unit -> Fetches Instruction from Memory -> ALU Executes -> Writes to Reg
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

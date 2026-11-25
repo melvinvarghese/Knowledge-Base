@@ -30,3 +30,4 @@ Siberian Traps Volcanism -> CO2 & Methane Spike -> Global Hyperthermia -> Ocean 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

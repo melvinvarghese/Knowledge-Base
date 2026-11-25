@@ -30,3 +30,4 @@ Web Browser Client -> HTTP GET Request -> DNS Resolves URL -> Server Delivers HT
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

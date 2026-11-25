@@ -30,3 +30,4 @@ Dietary Fiber -> Gut Bacteria Fermentation -> Short-Chain Fatty Acids -> Vagus N
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

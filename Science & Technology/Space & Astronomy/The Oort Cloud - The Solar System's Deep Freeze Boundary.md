@@ -30,3 +30,4 @@ Sun -> Kuiper Belt (50 AU) -> Heliopause (120 AU) -> Oort Cloud (100,000 AU)
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

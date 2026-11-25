@@ -30,3 +30,4 @@ Cooling Below Tc -> Cooper Pair Formation -> Zero Electrical Resistance + Magnet
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

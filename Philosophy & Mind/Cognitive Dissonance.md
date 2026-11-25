@@ -55,3 +55,4 @@ Rather than admitting his physical limitation, he changed his opinion of the gra
 - [[Sartre's Existentialism]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

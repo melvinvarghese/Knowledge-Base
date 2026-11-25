@@ -30,3 +30,4 @@ Solid Inner Core -> Molten Convecting Outer Core -> Coriolis Force Spiral -> Dip
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

@@ -30,3 +30,4 @@ Singularity -> Quantum Fluctuation -> Exponential Inflation -> Hot Big Bang Expa
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

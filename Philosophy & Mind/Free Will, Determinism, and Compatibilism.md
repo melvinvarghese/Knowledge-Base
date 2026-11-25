@@ -65,3 +65,4 @@ If Hard Determinism is true, can we hold criminals morally responsible?
 - [[Sartre's Existentialism]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

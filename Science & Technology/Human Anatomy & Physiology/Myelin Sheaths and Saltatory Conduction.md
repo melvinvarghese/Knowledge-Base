@@ -30,3 +30,4 @@ Axon Membrane -> Insulating Myelin Wraps -> Node of Ranvier Ion Jump -> 120 m/s 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

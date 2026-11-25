@@ -30,3 +30,4 @@ Parent Isotope (100%) -> Half-Life 1 (50:50) -> Half-Life 2 (25:75) -> Stable Da
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

@@ -30,3 +30,4 @@ Dehydration Signal -> Trehalose & TDP Vitrification -> Metabolic Rate at 0% -> R
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

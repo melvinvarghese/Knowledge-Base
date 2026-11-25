@@ -30,3 +30,4 @@ Central Brain + 8 Peripheral Arm Ganglia -> Decentralized Neural Processing
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

@@ -30,3 +30,4 @@ Main Sequence Star -> Red Giant Expansion -> Planetary Nebula Ejection -> White 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

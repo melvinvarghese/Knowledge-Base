@@ -30,3 +30,4 @@ Non-Avian Dinosaurs Vanish -> Ecological Release -> Mammalian Body Size Explosio
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

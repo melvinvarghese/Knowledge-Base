@@ -30,3 +30,4 @@ Deep Groundwater Heating -> Steam Bubble Trapping -> Pressure Overcome -> Erupti
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

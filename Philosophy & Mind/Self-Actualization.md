@@ -41,3 +41,4 @@ Maslow studied historical figures (like Albert Einstein, Eleanor Roosevelt, and 
 - [[Ikigai]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

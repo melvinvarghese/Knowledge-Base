@@ -75,3 +75,4 @@ Marcus compared human beings to rows of teeth or hands and feet: we were made to
 - [[Sartre's Existentialism]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

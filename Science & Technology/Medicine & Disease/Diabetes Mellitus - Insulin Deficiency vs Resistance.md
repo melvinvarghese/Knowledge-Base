@@ -30,3 +30,4 @@ Type 1: Zero Insulin Produced | Type 2: Receptors Resistant to Insulin -> High B
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

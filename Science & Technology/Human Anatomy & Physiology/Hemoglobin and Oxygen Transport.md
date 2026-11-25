@@ -30,3 +30,4 @@ Deoxyhemoglobin (Tense State) + O2 -> Conformational Shift -> Oxyhemoglobin (Rel
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

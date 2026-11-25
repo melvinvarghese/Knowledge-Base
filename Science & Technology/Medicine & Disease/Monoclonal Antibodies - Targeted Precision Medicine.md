@@ -30,3 +30,4 @@ Antigen Target Identified -> Hybridoma Cell Cloning -> Monoclonal Antibody Mass 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

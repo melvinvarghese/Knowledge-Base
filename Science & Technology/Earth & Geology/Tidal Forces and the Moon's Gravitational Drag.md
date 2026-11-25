@@ -30,3 +30,4 @@ Moon Pull -> Ocean Tidal Bulge -> Earth Spins Ahead -> Gravitational Drag Slows 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

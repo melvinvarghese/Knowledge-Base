@@ -30,3 +30,4 @@ Magma Chamber Heat -> Saturated Anhydrite Water -> Stable 58°C Mineral Bath -> 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

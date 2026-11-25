@@ -30,3 +30,4 @@ Capillary Lumen -> Tight-Junction Endothelium -> Pericyte Basal Lamina -> Astroc
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

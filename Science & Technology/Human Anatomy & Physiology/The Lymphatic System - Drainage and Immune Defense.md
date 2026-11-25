@@ -30,3 +30,4 @@ Interstitial Capillary Leakage -> Lymphatic Vessel Uptake -> Lymph Node Filtrati
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

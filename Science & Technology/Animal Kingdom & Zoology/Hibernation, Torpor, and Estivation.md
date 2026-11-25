@@ -30,3 +30,4 @@ Abundant Resources -> Metabolic Switch -> Depressed Core Temp & Heart Rate -> Pe
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

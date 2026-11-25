@@ -30,3 +30,4 @@ Tree Photosynthetic Sugars <==> Mycorrhizal Hyphae Mineral Nutrients & Water
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

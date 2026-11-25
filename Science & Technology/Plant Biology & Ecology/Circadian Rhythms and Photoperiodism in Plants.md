@@ -30,3 +30,4 @@ Phytochrome Red (Pr) <--> Phytochrome Far-Red (Pfr) Light Ratio -> Flowering Tri
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

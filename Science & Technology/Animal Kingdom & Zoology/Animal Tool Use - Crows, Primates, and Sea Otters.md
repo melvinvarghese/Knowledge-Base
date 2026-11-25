@@ -30,3 +30,4 @@ Object Selection -> Modification (Stripping/Shaping) -> Goal-Directed Applicatio
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

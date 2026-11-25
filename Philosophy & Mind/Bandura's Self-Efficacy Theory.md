@@ -66,3 +66,4 @@ Albert Bandura identified four ways to build unshakable self-efficacy:
 - [[Learned Helplessness]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

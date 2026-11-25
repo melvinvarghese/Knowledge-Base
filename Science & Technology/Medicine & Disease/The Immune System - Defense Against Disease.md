@@ -54,3 +54,4 @@ A vaccine introduces a weakened, harmless fragment of an antigen (or an mRNA blu
 - [[Genetics and DNA - The Blueprint of Life]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

@@ -30,3 +30,4 @@ Elevated Sea Surface Temp -> Algal Photosystem Damage -> Algae Expulsion -> Star
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

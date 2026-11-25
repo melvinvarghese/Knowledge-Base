@@ -30,3 +30,4 @@ Reactants -> Activation Energy Barrier -> Bond Cleavage -> Product Bond Formatio
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

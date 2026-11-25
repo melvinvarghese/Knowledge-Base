@@ -38,3 +38,4 @@ Nobel Peace Prize laureate Wangari Maathai took *Mottainai* to the United Nation
 - [[Wabi-Sabi]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

@@ -30,3 +30,4 @@ Triage Classification (Immediate / Delayed / Minor) -> ABCDE Assessment -> Defin
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

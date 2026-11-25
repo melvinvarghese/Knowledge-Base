@@ -30,3 +30,4 @@ Enthalpy Delta H (Heat Content) - Temperature * Entropy Delta S = Gibbs Free Ene
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

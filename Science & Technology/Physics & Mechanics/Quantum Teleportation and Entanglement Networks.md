@@ -30,3 +30,4 @@ Entangled Qubit Pair (Alice & Bob) -> Alice Bell Measurement -> Classical 2-Bit 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

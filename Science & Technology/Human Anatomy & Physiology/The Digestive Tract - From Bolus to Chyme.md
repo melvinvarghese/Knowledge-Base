@@ -30,3 +30,4 @@ Mouth (Chewing & Amylase) -> Stomach (Acid & Pepsin) -> Small Intestine (Enzymat
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

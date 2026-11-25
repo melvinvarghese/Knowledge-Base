@@ -39,3 +39,4 @@ Instead of fighting the truth that things end, *Mono no Aware* teaches us to lea
 - [[Wabi-Sabi]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

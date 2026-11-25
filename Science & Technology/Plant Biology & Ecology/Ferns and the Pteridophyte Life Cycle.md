@@ -30,3 +30,4 @@ Diploid Frond (Sori Spores) -> Haploid Heart-Shaped Prothallus -> Fertilization 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

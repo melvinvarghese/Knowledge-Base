@@ -30,3 +30,4 @@ Active Thaw Layer (Summer Growth) | Perennially Frozen Permafrost | Bedrock
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

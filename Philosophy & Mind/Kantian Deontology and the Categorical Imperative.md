@@ -52,3 +52,4 @@ A "hypothetical imperative" depends on desires (*"If you want to pass, study"*).
 - [[Virtue Ethics]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

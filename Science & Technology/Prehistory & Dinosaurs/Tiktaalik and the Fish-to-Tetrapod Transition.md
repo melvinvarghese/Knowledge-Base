@@ -30,3 +30,4 @@ Eusthenopteron (Lobe-Fin) -> Tiktaalik (Wrists & Neck) -> Acanthostega (Early Te
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

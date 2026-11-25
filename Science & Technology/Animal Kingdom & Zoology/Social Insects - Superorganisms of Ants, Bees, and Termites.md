@@ -30,3 +30,4 @@ Queen (Reproduction) + Castes (Defense/Foraging) + Pheromone Trails = Superorgan
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

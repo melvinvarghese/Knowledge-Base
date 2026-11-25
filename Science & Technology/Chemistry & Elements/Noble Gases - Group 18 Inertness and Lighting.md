@@ -30,3 +30,4 @@ Full Valence Octet -> Stable Low Energy -> Zero Spontaneous Chemical Reactivity
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

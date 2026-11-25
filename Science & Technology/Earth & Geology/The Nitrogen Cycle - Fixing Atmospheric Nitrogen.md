@@ -30,3 +30,4 @@ N2 Gas -> Rhizobia Fixation -> Ammonium/Nitrate -> Plant Uptake -> Denitrificati
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

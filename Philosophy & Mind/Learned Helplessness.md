@@ -48,3 +48,4 @@ Helplessness is not an innate genetic curse; it is **learned behavior**. Because
 - [[Growth Mindset vs Fixed Mindset]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

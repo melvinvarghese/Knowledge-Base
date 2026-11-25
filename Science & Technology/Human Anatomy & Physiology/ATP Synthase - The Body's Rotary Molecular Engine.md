@@ -30,3 +30,4 @@ Proton Gradient (Mitochondrial Space) -> F0 Rotor Spin (9,000 RPM) -> F1 Stalk C
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

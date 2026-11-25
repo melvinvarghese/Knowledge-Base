@@ -30,3 +30,4 @@ Fight-or-Flight (Adrenaline, High Heart Rate) <--> Rest-and-Digest (Vagus Nerve,
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

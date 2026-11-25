@@ -30,3 +30,4 @@ High Activation Energy Barrier -> Catalyst Introduced -> Lower Energy Path -> Ra
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

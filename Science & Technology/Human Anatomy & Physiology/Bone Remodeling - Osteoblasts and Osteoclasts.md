@@ -30,3 +30,4 @@ Microfracture Detected -> Osteoclast Acid Resorption -> Osteoblast Hydroxyapatit
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

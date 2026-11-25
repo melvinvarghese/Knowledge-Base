@@ -30,3 +30,4 @@ U-235 + Thermal Neutron -> Unstable U-236 -> Fission Fragments + 2-3 Fast Neutro
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

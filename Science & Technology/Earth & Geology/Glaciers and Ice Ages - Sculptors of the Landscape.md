@@ -30,3 +30,4 @@ Snow Accumulation -> Firn Compaction -> Glacial Flow -> Moraines & Cirques
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

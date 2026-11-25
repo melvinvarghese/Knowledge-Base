@@ -30,3 +30,4 @@ Inertia (Resists Change) | F = ma (Acceleration) | Action = Reaction (Paired For
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

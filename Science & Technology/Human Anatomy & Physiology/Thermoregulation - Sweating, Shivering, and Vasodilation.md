@@ -30,3 +30,4 @@ Hypothalamus Sensor -> Hot: Vasodilation & Evaporative Sweat | Cold: Vasoconstri
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

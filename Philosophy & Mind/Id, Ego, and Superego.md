@@ -61,3 +61,4 @@ When you feel internal conflict, pause and label the voices:
 - [[Metacognition]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

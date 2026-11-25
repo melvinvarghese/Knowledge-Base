@@ -30,3 +30,4 @@ Partially Filled d-Orbitals -> Multiple Oxidation States -> Catalytic & Magnetic
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

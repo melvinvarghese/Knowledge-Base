@@ -52,3 +52,4 @@ The Gettier Problem forced philosophers and AI researchers to rethink what it me
 - [[Deductive vs Inductive Arguments]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

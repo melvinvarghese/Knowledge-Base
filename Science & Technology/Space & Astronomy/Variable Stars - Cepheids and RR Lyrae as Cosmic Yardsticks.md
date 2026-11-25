@@ -30,3 +30,4 @@ Luminosity Pulsation Period -> Absolute Brightness Derived -> Distance Calculate
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

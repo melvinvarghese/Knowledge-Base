@@ -30,3 +30,4 @@ Post-Extinction Hot Greenhouse Climate -> Ectothermic Metabolic Scalability -> 1
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

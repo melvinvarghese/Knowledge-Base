@@ -30,3 +30,4 @@ Glacial Steppe Adaptation -> Massive Body Size -> Climate Shift & Human Hunting 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

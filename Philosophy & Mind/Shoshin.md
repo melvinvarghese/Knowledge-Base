@@ -42,3 +42,4 @@ A person with *Shoshin* drops their ego and looks at familiar things as if seein
 - [[Metacognition]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

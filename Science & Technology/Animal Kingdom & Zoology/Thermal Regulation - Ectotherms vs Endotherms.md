@@ -30,3 +30,4 @@ Basking Ectotherm (Low Caloric Need) vs Internal Combustion Endotherm (High Calo
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

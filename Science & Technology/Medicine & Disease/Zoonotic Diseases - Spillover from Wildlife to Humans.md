@@ -30,3 +30,4 @@ Wildlife Host Reservoir -> Intermediate Livestock Host -> Spillover Event -> Hum
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

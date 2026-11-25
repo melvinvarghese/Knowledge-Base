@@ -30,3 +30,4 @@ Normal Polarity Crust | Reversal Stripe | Reversed Polarity Crust (Paleomagnetic
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

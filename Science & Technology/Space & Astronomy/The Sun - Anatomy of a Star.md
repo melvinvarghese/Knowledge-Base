@@ -56,3 +56,4 @@ The Sun isn't solid—it is churning plasma with tangled magnetic fields:
 - [[Earth's Layers and Plate Tectonics]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

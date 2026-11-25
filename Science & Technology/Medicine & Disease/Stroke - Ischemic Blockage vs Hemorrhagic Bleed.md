@@ -30,3 +30,4 @@ Ischemic (Clot Blocks Blood Flow) vs Hemorrhagic (Vessel Wall Ruptures Bleeding 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

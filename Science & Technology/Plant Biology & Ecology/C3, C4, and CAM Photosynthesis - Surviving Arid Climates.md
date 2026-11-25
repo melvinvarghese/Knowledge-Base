@@ -30,3 +30,4 @@ C3 (Standard Temperate) | C4 (Spatial Separation) | CAM (Temporal Night Fixation
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

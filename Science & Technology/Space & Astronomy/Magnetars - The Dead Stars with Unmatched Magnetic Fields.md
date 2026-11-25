@@ -30,3 +30,4 @@ Core Collapse -> Rapid Dynamo Action -> Magnetic Field 10^15 Gauss
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

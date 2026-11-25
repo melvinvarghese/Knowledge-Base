@@ -30,3 +30,4 @@ Static Friction (Resists Initial Slip) > Kinetic Friction (Sliding Drag)
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

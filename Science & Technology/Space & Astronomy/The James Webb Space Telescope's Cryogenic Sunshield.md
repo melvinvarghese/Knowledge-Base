@@ -30,3 +30,4 @@ Sun Side (+85°C) -> 5 Vacuum-Spaced Kapton Layers -> Dissipation into Space -> 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

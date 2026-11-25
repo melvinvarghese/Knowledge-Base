@@ -30,3 +30,4 @@ Normal PrPC (Alpha-Helix) + PrPSc Template -> Misfolding into Beta-Sheets -> Spo
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

@@ -30,3 +30,4 @@ Spinal Motor Nerve -> Stacked Electrocytes -> Simultaneous Ion Channel Opening -
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

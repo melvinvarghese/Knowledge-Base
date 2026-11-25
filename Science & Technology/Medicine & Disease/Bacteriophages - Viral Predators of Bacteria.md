@@ -30,3 +30,4 @@ Phage Tail Fiber Adsorption -> DNA Injection -> Bacterial Synthesis Hijacked -> 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

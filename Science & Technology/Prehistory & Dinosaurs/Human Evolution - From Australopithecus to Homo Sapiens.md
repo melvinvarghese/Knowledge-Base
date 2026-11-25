@@ -30,3 +30,4 @@ Ardipithecus (Bipedal) -> Australopithecus -> Homo habilis (Tools) -> Homo erect
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

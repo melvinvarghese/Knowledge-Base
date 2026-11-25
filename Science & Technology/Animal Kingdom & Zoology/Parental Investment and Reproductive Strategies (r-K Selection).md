@@ -30,3 +30,4 @@ r-Strategy (High Offspring, Zero Care) <--> K-Strategy (Few Offspring, High Inve
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

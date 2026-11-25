@@ -30,3 +30,4 @@ Physical Armor (Spines/Trichomes) + Chemical Toxins (Alkaloids/Tannins) = Herbiv
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

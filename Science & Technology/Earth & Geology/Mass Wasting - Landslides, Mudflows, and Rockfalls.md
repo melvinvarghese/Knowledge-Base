@@ -30,3 +30,4 @@ Slope Saturation -> Pore Water Pressure Rises -> Shear Strength Fails -> Rapid D
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

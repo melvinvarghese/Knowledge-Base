@@ -30,3 +30,4 @@ Massive Star Collapse / Merger -> Ultra-Relativistic Jet -> Collimated Gamma Fla
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

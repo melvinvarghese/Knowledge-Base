@@ -30,3 +30,4 @@ Adult Medusa Under Stress -> Cellular Transdifferentiation -> Stolon Matrix -> J
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

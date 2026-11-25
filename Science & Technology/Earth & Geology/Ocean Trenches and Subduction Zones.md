@@ -30,3 +30,4 @@ Oceanic Crust -> Subduction Trench -> Mantle Melting -> Volcanic Island Arc
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

@@ -55,3 +55,4 @@ Social and economic inequalities are permitted **only if they work to the maximu
 - [[Kantian Deontology and the Categorical Imperative]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

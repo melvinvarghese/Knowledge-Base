@@ -56,3 +56,4 @@ A tsunami is **not** a regular wind wave. It is a giant shockwave moving through
 - [[Newton's Laws of Motion]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

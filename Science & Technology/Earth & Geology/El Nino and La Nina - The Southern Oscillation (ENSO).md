@@ -30,3 +30,4 @@ Normal (Strong Trade Winds, Upwelling) vs El Nino (Slack Winds, Warm Pool Shifts
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

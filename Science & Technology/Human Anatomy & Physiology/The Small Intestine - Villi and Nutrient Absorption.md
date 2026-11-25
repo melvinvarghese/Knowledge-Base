@@ -30,3 +30,4 @@ Duodenum (Pancreatic Enzyme Mixing) -> Jejunum (Villi Absorption) -> Ileum (B12 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

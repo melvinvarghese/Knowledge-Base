@@ -30,3 +30,4 @@ Cocked Plunger Claw -> High-Speed Water Jet -> Cavitation Bubble Snaps -> 210 dB
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

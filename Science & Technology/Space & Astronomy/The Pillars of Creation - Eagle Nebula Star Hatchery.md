@@ -30,3 +30,4 @@ Cold Molecular Gas Spire -> Ultraviolet Photoevaporation -> Dense EGGs Emerge ->
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

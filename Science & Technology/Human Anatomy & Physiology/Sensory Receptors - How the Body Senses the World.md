@@ -30,3 +30,4 @@ Physical Stimulus (Pressure/Heat) -> Membrane Ion Channel Depolarization -> Sens
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

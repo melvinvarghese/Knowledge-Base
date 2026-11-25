@@ -30,3 +30,4 @@ R0 > 1 (Epidemic Expands) | R0 = 1 (Endemic Equilibrium) | R0 < 1 (Outbreak Exti
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

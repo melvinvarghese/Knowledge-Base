@@ -40,3 +40,4 @@ However, this biological communication has a **15 to 20 minute lag**:
 - [[Kaizen]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

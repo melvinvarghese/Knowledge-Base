@@ -30,3 +30,4 @@ High Fluid Velocity -> Low Static Pressure | Low Fluid Velocity -> High Static P
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

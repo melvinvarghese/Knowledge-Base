@@ -30,3 +30,4 @@ Luciferin Substrate + O2 + Luciferase -> Oxyluciferin + Photon of Blue-Green Lig
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

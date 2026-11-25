@@ -46,3 +46,4 @@ The ultimate goal of developing virtues is not just being "good," but living a r
 - [[Kantian Deontology and the Categorical Imperative]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

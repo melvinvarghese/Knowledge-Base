@@ -30,3 +30,4 @@ Material Cooled Below Tc -> Screening Supercurrents Induced -> Magnetic Flux Exp
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

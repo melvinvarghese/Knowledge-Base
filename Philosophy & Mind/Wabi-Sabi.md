@@ -38,3 +38,4 @@ Modern society pushes us to chase flawless perfection: spotless countertops, fil
 - [[Mono no Aware]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

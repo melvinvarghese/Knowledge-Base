@@ -30,3 +30,4 @@ Binary Orbit -> Orbital Decay -> Inspiral & Merger -> Ringdown Wave
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

@@ -50,3 +50,4 @@
 - [[The Map of Ancient Philosophy]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

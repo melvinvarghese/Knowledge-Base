@@ -30,3 +30,4 @@ Core-Mantle Boundary Plume -> Hotspot Burn -> Moving Tectonic Plate -> Volcanic 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

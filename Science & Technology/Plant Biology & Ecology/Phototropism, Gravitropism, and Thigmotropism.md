@@ -30,3 +30,4 @@ Stimulus Detected -> Auxin Transported to Far Side -> Cell Wall Acidification ->
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

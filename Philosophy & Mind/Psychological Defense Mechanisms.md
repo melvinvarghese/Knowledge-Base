@@ -41,3 +41,4 @@ Next time you have an unusually intense emotional reaction or feel a strong urge
 - [[Metacognition]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

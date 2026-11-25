@@ -30,3 +30,4 @@ Black Hole Singularity <- Accretion Disk Friction -> Relativistic Jets
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

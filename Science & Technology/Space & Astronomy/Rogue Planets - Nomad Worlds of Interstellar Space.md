@@ -30,3 +30,4 @@ Planetesimal Gravitational Scattering -> Ejection Velocity Exceeded -> Interstel
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

@@ -30,3 +30,4 @@ H -> He -> C & O -> Ne & Mg -> Si & S -> Iron Core (End of Fusion)
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

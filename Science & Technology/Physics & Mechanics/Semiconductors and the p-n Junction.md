@@ -30,3 +30,4 @@ p-Type (Positive Holes) | Depletion Barrier | n-Type (Free Electrons) -> Forward
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

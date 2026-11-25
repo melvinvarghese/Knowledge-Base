@@ -30,3 +30,4 @@ Bare Lava Rock -> Pioneer Lichens -> Soil Formation -> Grasses -> Shrubs -> Clim
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

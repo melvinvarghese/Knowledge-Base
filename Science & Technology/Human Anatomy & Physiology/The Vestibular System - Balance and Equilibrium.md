@@ -30,3 +30,4 @@ Rotational Canals (Angular Acceleration) + Otolith Organs (Gravity & Linear Tilt
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

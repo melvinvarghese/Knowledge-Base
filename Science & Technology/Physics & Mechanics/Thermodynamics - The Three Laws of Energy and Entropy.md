@@ -30,3 +30,4 @@ Energy Conserved (Law 1) -> Entropy Increases (Law 2) -> Absolute Zero Inaccessi
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

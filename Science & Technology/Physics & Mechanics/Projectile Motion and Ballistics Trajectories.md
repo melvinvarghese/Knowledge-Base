@@ -30,3 +30,4 @@ Constant Horizontal Velocity Vx + Downward Gravitational Acceleration Vy = Parab
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

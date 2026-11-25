@@ -30,3 +30,4 @@ Enormous Magma Chamber Inflation -> Ring Fractures Form -> Caldera Collapse Erup
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

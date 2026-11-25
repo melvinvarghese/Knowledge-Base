@@ -30,3 +30,4 @@ Intake (Fuel/Air) -> Compression -> Power (Spark Ignition) -> Exhaust (Expels Ga
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

@@ -30,3 +30,4 @@ High-Pressure Arteries -> Resistive Arterioles -> Capillary Exchange Bed -> One-
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

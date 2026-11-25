@@ -63,3 +63,4 @@ Developed by psychologist Julian Rotter in 1954, **Locus of Control** refers to 
 - [[Metacognition]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

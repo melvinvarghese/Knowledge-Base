@@ -30,3 +30,4 @@ Core (15M K) -> Photosphere (5,800 K) -> Corona (1,000,000+ K)
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

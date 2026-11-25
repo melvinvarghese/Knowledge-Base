@@ -30,3 +30,4 @@ Asteroid Impact -> Global Firestorm & Shockwave -> Sulfate Aerosol Darkness -> T
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

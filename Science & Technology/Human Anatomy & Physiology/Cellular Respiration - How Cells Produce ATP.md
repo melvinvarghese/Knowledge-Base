@@ -30,3 +30,4 @@ Glucose -> Glycolysis (2 ATP) -> Krebs Cycle (2 ATP) -> Electron Transport Chain
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

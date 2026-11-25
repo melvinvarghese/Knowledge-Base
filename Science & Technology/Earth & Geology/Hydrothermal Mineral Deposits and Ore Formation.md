@@ -30,3 +30,4 @@ Magmatic Heat Source -> Metal Leaching by Brines -> Cooling in Fractures -> Ore 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

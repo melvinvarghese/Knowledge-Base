@@ -30,3 +30,4 @@ Epidermis (Keratin Barrier) | Dermis (Collagen, Nerves, Vessels) | Hypodermis (S
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

@@ -30,3 +30,4 @@ Source Terminal -> Semiconductor Channel (Controlled by Gate Voltage) -> Drain T
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

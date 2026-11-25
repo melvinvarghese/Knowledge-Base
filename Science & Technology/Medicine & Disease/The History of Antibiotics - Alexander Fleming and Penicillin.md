@@ -30,3 +30,4 @@ Bacterial Peptidoglycan Wall -> Penicillin Inhibits Cross-Linking -> Osmotic Lys
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

@@ -30,3 +30,4 @@ Ice Advance -> Higher Albedo -> Global Freeze -> Volcanic CO2 Buildup -> Rapid T
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

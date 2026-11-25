@@ -61,3 +61,4 @@ Adler argued that true happiness and mental strength do not come from dominating
 - [[The Persona and the Shadow]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

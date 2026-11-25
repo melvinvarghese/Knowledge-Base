@@ -30,3 +30,4 @@ Star Light Emission -> Planet Crosses Star -> Dip in Light Curve Recorded
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

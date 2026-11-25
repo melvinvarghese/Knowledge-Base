@@ -30,3 +30,4 @@ Absorption into Blood -> Distribution to Tissues -> Receptor Binding -> Liver Me
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

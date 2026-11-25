@@ -30,3 +30,4 @@ Spores Germinate -> Protonema -> Leafy Gametophyte Carpet -> Water-Assisted Fert
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

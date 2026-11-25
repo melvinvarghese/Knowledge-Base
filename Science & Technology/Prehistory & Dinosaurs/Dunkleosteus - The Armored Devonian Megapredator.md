@@ -30,3 +30,4 @@ Four-Bar Kinematic Jaw Linkage -> Rapid Vacuum Suction -> 5,000 N Bone-Shearing 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

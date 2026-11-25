@@ -30,3 +30,4 @@ Liquid Spidroin Protein Solution -> Shear Stress in Duct -> Solid Crystalline Fi
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

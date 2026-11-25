@@ -30,3 +30,4 @@ Compression Wave Peak + Rarefaction Trough -> Resonant Frequency Matching -> Amp
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

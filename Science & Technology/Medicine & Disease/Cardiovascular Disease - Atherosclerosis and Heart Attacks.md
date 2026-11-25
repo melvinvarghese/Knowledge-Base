@@ -30,3 +30,4 @@ Endothelial Injury -> LDL Cholesterol Oxidation -> Foam Cell Plaque -> Rupture &
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

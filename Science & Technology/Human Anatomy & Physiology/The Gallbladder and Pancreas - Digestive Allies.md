@@ -30,3 +30,4 @@ Gallbladder (Fat-Emulsifying Bile) + Pancreas (Acid-Neutralizing Bicarbonate & E
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

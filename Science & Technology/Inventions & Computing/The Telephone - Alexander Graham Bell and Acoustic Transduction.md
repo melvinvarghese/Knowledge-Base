@@ -30,3 +30,4 @@ Voice Sound Waves -> Flexible Metal Diaphragm -> Variable Electric Signal -> Rem
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

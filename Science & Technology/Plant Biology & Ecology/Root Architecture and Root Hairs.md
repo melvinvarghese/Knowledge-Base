@@ -30,3 +30,4 @@ Root Cap Gravity Sensor -> Apical Meristem Growth -> Root Hair Epidermal Absorpt
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

@@ -30,3 +30,4 @@ Potassium Influx -> Osmotic Water Entry -> Turgid Guard Cells -> Pore Opens
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

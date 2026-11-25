@@ -30,3 +30,4 @@ Type A (A Antigen) | Type B (B Antigen) | Type AB (Universal Recipient) | Type O
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

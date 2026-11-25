@@ -30,3 +30,4 @@ Pump Energy Source -> Population Inversion -> Stimulated Photon Emission -> Cohe
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

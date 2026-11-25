@@ -30,3 +30,4 @@ Rotating Wire Coil in Magnetic Field -> Changing Magnetic Flux -> Induced Electr
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

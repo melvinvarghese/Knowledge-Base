@@ -30,3 +30,4 @@ Bone End -> Hyaline Articular Cartilage -> Synovial Fluid Cavity -> Fibrous Join
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

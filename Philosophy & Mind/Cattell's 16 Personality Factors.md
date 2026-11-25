@@ -57,3 +57,4 @@ While the Big Five (OCEAN) is simpler for daily conversation, Cattell's **16PF Q
 - [[Eysenck's PEN Model]]
 
 **Back to Index:** [[_Knowledge Base Index]]
+

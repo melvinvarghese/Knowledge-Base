@@ -30,3 +30,4 @@ Deterministic Nonlinear Equations -> Microscopic Initial Delta -> Exponential Di
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

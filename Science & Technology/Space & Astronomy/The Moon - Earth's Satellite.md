@@ -17,3 +17,4 @@ Without the Moon, Earth’s tilt would wobble chaotically between 0° and 85°, 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

@@ -30,3 +30,4 @@ SO2 Gas Injection -> Stratospheric Sulfate Aerosols -> Sunlight Reflection -> Gl
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

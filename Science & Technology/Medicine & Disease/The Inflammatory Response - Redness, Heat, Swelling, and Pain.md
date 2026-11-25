@@ -30,3 +30,4 @@ Tissue Trauma -> Mast Cell Histamine -> Capillary Permeability -> Neutrophil Pha
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

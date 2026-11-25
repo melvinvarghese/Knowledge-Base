@@ -30,3 +30,4 @@ Action Potential -> Sarcoplasmic Calcium Release -> Myosin Power Stroke -> Sarco
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

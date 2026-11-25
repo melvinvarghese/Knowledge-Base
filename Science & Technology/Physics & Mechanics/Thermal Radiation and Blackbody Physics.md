@@ -30,3 +30,4 @@ Wien's Displacement Law (Peak Wavelength) + Stefan-Boltzmann Law (Total Power ~ 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

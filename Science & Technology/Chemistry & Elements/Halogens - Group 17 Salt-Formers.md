@@ -30,3 +30,4 @@ Seven Valence Electrons -> High Electronegativity -> Strong Electron Affinity
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

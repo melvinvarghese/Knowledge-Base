@@ -30,3 +30,4 @@ Divergent Boundary -> Mantle Upwelling -> Basalt Pillow Lava -> Seafloor Spreadi
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

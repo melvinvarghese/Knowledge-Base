@@ -30,3 +30,4 @@ Toroidal Coils + Central Solenoid -> Helical Magnetic Bottle -> 150 Million °C 
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

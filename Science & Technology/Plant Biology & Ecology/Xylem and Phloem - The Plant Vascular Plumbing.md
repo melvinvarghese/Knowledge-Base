@@ -30,3 +30,4 @@ Roots -> Transpiration Pull -> Xylem (Water/Minerals) Upward | Phloem (Sugars) B
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+

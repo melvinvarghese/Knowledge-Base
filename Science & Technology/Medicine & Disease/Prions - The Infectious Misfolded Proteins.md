@@ -30,3 +30,4 @@ Normal PrPC Protein + Infectious PrPSc Prion -> Chain-Reaction Misfolding -> Spo
 ---
 
 **Back to Index:** [[_Knowledge Base Index]]
+
