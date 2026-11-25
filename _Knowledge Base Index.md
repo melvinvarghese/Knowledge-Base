@@ -97,6 +97,22 @@
 ## 🔬 Science & Technology
 <!-- Notes on tech, programming, engineering, math, and natural sciences -->
 
+### 🌌 Space & The Cosmos
+- [[The Sun - Anatomy of a Star]] — The 6 layers, nuclear fusion reactor, and magnetic storms powering our Solar System.
+- [[The Solar System - Rocky Planets vs Gas Giants]] — The 8 planets, the frost line, asteroid belts, and frozen Kuiper debris.
+- [[The Life Cycle of Stars]] — From stellar nebulae to red giants, white dwarfs, violent supernovae, and black holes.
+- [[The Big Bang and the Universe]] — The origin of space and time 13.8 billion years ago, cosmic expansion, and dark matter.
+- [[Black Holes and Spacetime]] — Infinite density singularities, event horizons, time dilation, and warped gravity.
+
+### 🌍 Earth & Nature
+- [[Earth's Layers and Plate Tectonics]] — Crust, mantle, outer liquid core, continental drift, and the Ring of Fire.
+- [[The Atmosphere and the Water Cycle]] — The 5 atmospheric shields, the ozone layer, and the planet's closed water loop.
+- [[The Cell - How Life Works]] — The microscopic factories of life, prokaryotes vs eukaryotes, and organelle machinery.
+
+### ⚛️ Physics & Fundamentals of Matter
+- [[The Atom and Matter]] — Protons, neutrons, electrons, chemical bonding, and the 4 states of matter.
+- [[Newton's Laws of Motion]] — Inertia, F=ma, action-reaction, and the universal laws of gravitation.
+
 ## 💼 Projects & Work
 <!-- Active projects, goals, and professional topics -->
 
