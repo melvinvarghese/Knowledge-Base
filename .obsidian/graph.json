@@ -125,6 +125,13 @@
         "a": 1,
         "rgb": 16347926
       }
+    },
+    {
+      "query": "path:\"Psychology & Cognitive Science\"",
+      "color": {
+        "a": 1,
+        "rgb": 16747520
+      }
     }
   ],
   "collapse-display": true,
