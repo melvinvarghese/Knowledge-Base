@@ -132,6 +132,13 @@
         "a": 1,
         "rgb": 16747520
       }
+    },
+    {
+      "query": "path:\"Linguistics & World Languages\"",
+      "color": {
+        "a": 1,
+        "rgb": 4506623
+      }
     }
   ],
   "collapse-display": true,
