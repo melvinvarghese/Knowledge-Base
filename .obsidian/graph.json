@@ -146,6 +146,13 @@
         "a": 1,
         "rgb": 14433595
       }
+    },
+    {
+      "query": "path:\"Religion & Comparative Spirituality\"",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
     }
   ],
   "collapse-display": true,
@@ -158,6 +165,6 @@
   "repelStrength": 1.6,
   "linkStrength": 0.85,
   "linkDistance": 65,
-  "scale": 0.13873223932666068,
+  "scale": 0.19450022690615926,
   "close": true
 }
