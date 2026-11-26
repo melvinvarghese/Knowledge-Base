@@ -1,22 +1,135 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "-file:\"_Knowledge Base Index\"",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Science & Technology/Physics & Mechanics\"",
+      "color": {
+        "a": 1,
+        "rgb": 3900150
+      }
+    },
+    {
+      "query": "path:\"Science & Technology/Space & Astronomy\"",
+      "color": {
+        "a": 1,
+        "rgb": 6514417
+      }
+    },
+    {
+      "query": "path:\"Science & Technology/Chemistry & Elements\"",
+      "color": {
+        "a": 1,
+        "rgb": 439956
+      }
+    },
+    {
+      "query": "path:\"Science & Technology/Mathematics & Logic\"",
+      "color": {
+        "a": 1,
+        "rgb": 959977
+      }
+    },
+    {
+      "query": "path:\"Science & Technology/Inventions & Computing\"",
+      "color": {
+        "a": 1,
+        "rgb": 1358006
+      }
+    },
+    {
+      "query": "path:\"Science & Technology/Human Anatomy & Physiology\"",
+      "color": {
+        "a": 1,
+        "rgb": 16007006
+      }
+    },
+    {
+      "query": "path:\"Science & Technology/Medicine & Disease\"",
+      "color": {
+        "a": 1,
+        "rgb": 14753096
+      }
+    },
+    {
+      "query": "path:\"Science & Technology/Plant Biology & Ecology\"",
+      "color": {
+        "a": 1,
+        "rgb": 1096065
+      }
+    },
+    {
+      "query": "path:\"Science & Technology/Earth & Geology\"",
+      "color": {
+        "a": 1,
+        "rgb": 8703000
+      }
+    },
+    {
+      "query": "path:\"Science & Technology/Animal Kingdom & Zoology\"",
+      "color": {
+        "a": 1,
+        "rgb": 16096779
+      }
+    },
+    {
+      "query": "path:\"Science & Technology/Prehistory & Dinosaurs\"",
+      "color": {
+        "a": 1,
+        "rgb": 15358004
+      }
+    },
+    {
+      "query": "path:\"Philosophy & Mind\"",
+      "color": {
+        "a": 1,
+        "rgb": 9133302
+      }
+    },
+    {
+      "query": "path:\"History & Civilizations\"",
+      "color": {
+        "a": 1,
+        "rgb": 14251782
+      }
+    },
+    {
+      "query": "path:\"Economics, Finance & Geopolitics\"",
+      "color": {
+        "a": 1,
+        "rgb": 366185
+      }
+    },
+    {
+      "query": "path:\"World Literature & Mythology\"",
+      "color": {
+        "a": 1,
+        "rgb": 14239471
+      }
+    },
+    {
+      "query": "path:\"Art, Music & Architecture\"",
+      "color": {
+        "a": 1,
+        "rgb": 16347926
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.23126765470887847,
-  "close": true
+  "textFadeMultiplier": 1.5,
+  "nodeSizeMultiplier": 1.15,
+  "lineSizeMultiplier": 0.75,
+  "collapse-forces": false,
+  "centerStrength": 0.45,
+  "repelStrength": 1.6,
+  "linkStrength": 0.85,
+  "linkDistance": 65,
+  "scale": 0.35,
+  "close": false
 }
