@@ -139,6 +139,13 @@
         "a": 1,
         "rgb": 4506623
       }
+    },
+    {
+      "query": "path:\"Law, Governance & Political Science\"",
+      "color": {
+        "a": 1,
+        "rgb": 14433595
+      }
     }
   ],
   "collapse-display": true,
