@@ -2,7 +2,7 @@
 
 > Complete catalog of notes organized by domain and topic.
 
-**Total Notes**: 1176
+**Total Notes**: 1201
 
 ## Art, Music & Architecture
 
@@ -11,9 +11,14 @@
 - [[Classical Music - The Sonata Form, Mozart, and Beethoven]]
 - [[Gothic Architecture - Flying Buttresses, Ribbed Vaults, and Stained Glass]]
 - [[Impressionism and Post-Impressionism - Monet, Cézanne, and Van Gogh]]
+- [[Islamic Architecture - Muqarnas, Geometric Arabesques, and the Alhambra]]
 - [[Modern Art Movements - Cubism, Surrealism, and Abstract Expressionism]]
+- [[Photography as Art - Daguerre, Stieglitz, and The Decisive Moment]]
 - [[Renaissance Art - Linear Perspective, Chiaroscuro, and Sfumato]]
 - [[Roman Engineering - Arches, Domes, Vaults, and Roman Concrete]]
+- [[Romanticism in Music - Chopin, Wagner, and The Ring Cycle]]
+- [[The Bauhaus Movement - Gropius, Functionality, and Modernist Design]]
+- [[The Development of Jazz - Ragtime, Blues, Bebop, and Miles Davis]]
 - [[The Western Musical Tradition - Harmony, Counterpoint, and J.S. Bach]]
 
 ## Books & Learning
@@ -22,26 +27,36 @@
 
 ## Economics, Finance & Geopolitics
 
+- [[Asymmetric Information - Adverse Selection, Moral Hazard, and Signaling]]
 - [[Behavioral Economics - Kahneman, Tversky, and Prospect Theory]]
 - [[Behavioral Nudge Theory and Public Choice Economics]]
 - [[Central Banking and Monetary Policy - Interest Rates, Reserve Ratios, and QE]]
 - [[Classical Economics - Adam Smith, The Wealth of Nations, and The Invisible Hand]]
 - [[Comparative Advantage and Ricardian Trade Theory]]
+- [[Creative Destruction and Schumpeterian Innovation]]
 - [[Fiat Currency, Fractional Reserve Banking, and the Money Multiplier]]
 - [[Game Theory in Geopolitics - Deterrence, Brinkmanship, and MAD]]
 - [[Keynesian Economics - Aggregate Demand, Fiscal Stimulus, and Liquidity Traps]]
+- [[Modern Monetary Theory (MMT) - Sovereign Currency and Fiscal Limits]]
 - [[Modern Portfolio Theory - Markowitz Efficient Frontier and CAPM]]
 - [[Monetarism - Milton Friedman, The Quantity Theory of Money, and Volcker]]
 - [[OPEC, Petrodollars, and the Geopolitics of Energy]]
+- [[Supply-Side Economics - The Laffer Curve and Deregulation]]
 - [[The Austrian School of Economics - Mises, Hayek, and the Calculation Problem]]
 - [[The Black-Scholes-Merton Options Pricing Model]]
 - [[The Bretton Woods System - IMF, World Bank, and the Gold Standard]]
+- [[The Coase Theorem and Transaction Costs]]
+- [[The Dutch Disease and the Resource Curse]]
 - [[The Efficient Market Hypothesis (EMH) and Market Anomalies]]
+- [[The European Single Market and the Four Freedoms]]
 - [[The Gini Coefficient and Economic Inequality]]
 - [[The Hegemonic Stability Theory and The Thucydides Trap]]
+- [[The Mundell-Fleming Trilemma - The Impossible Trinity]]
 - [[The Rise of China - Reform and Opening Up, WTO, and the Belt and Road]]
 - [[The Sovereign Debt Crisis - The Eurozone, Greece, and Austerity]]
+- [[The Tragedy of the Commons and Elinor Ostrom's Common-Pool Resources]]
 - [[The Triffin Dilemma and the Collapse of the Gold Standard]]
+- [[The Washington Consensus and Structural Adjustment Programs (SAPs)]]
 - [[The Washington Consensus vs The Beijing Consensus]]
 
 ## History & Civilizations
@@ -1221,12 +1236,22 @@
 ## World Literature & Mythology
 
 - [[Beowulf and Old English Heroic Poetry]]
+- [[Crime and Punishment - Dostoevsky, Nihilism, and Moral Redemption]]
 - [[Don Quixote - Cervantes and the Birth of the Modern Novel]]
+- [[Dream of the Red Chamber - Cao Xueqin and Late Imperial Decline]]
+- [[Egyptian Cosmogony - The Heliopolitan Ogdoad, Osiris, and Isis]]
 - [[Faust and the Faustian Bargain - Goethe and Romantic Humanism]]
 - [[Greek Mythology - The Olympian Pantheon, Titanomachy, and Fate]]
+- [[Journey to the West - Sun Wukong and the Monkey King Legend]]
+- [[Mesopotamian Cosmogony - Enuma Elish and the Triumph of Marduk]]
 - [[Norse Mythology - Yggdrasil, Odin, Thor, and Ragnarok]]
+- [[One Thousand and One Nights - Scheherazade and Frame Narrative Architecture]]
+- [[The Aeneid - Virgil, Roman Imperial Destiny, and Pietas]]
 - [[The Arthurian Legend - Camelot, the Round Table, and the Holy Grail]]
 - [[The Divine Comedy - Dante's Inferno, Purgatorio, and Paradiso]]
 - [[The Iliad and The Odyssey - Homeric Epic and Oral Tradition]]
 - [[The Mahabharata and The Ramayana - Sanskrit Epics of Dharma]]
 - [[The Plays of William Shakespeare - Tragedy, Soliloquy, and the Globe]]
+- [[The Tale of Genji - Murasaki Shikibu and Heian Courtly Elegance]]
+- [[Ulysses and The Modernist Novel - James Joyce and Stream of Consciousness]]
+- [[War and Peace - Leo Tolstoy, Historicism, and the Great Man Critique]]
