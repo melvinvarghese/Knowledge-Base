@@ -2,9 +2,9 @@
 
 > Complete catalog of notes organized by domain and topic.
 
-**Total Notes**: 1374
+**Total Notes**: 1443
 
-## Art, Music & Architecture
+## Art, Music & Architecture (14 notes)
 
 - [[Baroque Art and Architecture - Caravaggio, Bernini, and Dramatic Theatricality]]
 - [[Classical Architecture - The Doric, Ionic, and Corinthian Orders]]
@@ -21,45 +21,114 @@
 - [[The Development of Jazz - Ragtime, Blues, Bebop, and Miles Davis]]
 - [[The Western Musical Tradition - Harmony, Counterpoint, and J.S. Bach]]
 
-## Books & Learning
+## Books & Learning (1 notes)
 
 - [[Can't Hurt Me - David Goggins]]
 
-## Economics, Finance & Geopolitics
+## Economics, Finance & Geopolitics (100 notes)
 
+- [[Alfred Thayer Mahan and Maritime Geostrategy - Command of the Sea and Naval Hegemony]]
+- [[Arctic Geopolitics - The Northern Sea Route, Icebreaker Fleets, and Polar Resource Claims]]
 - [[Asymmetric Information - Adverse Selection, Moral Hazard, and Signaling]]
+- [[Auction Theory - English, Dutch, Sealed-Bid, and Vickrey Auctions (Nobel Prize 1996)]]
+- [[Automation, Artificial Intelligence, and the Future of Work - Skill-Biased Technological Change and Universal Basic Income (UBI)]]
+- [[Balance of Payments - Current Account, Capital Account, and Foreign Exchange Reserves]]
 - [[Behavioral Economics - Kahneman, Tversky, and Prospect Theory]]
 - [[Behavioral Nudge Theory and Public Choice Economics]]
+- [[Bond Valuation - Yield to Maturity, Macaulay Duration, Convexity, and Credit Spreads]]
+- [[Carbon Pricing and Emissions Trading - European ETS, Carbon Border Adjustment Mechanism (CBAM), and Net-Zero Economics]]
+- [[Central Bank Digital Currencies (CBDCs) - Retail, Wholesale, and the Future of Sovereign Money]]
 - [[Central Banking and Monetary Policy - Interest Rates, Reserve Ratios, and QE]]
 - [[Classical Economics - Adam Smith, The Wealth of Nations, and The Invisible Hand]]
 - [[Comparative Advantage and Ricardian Trade Theory]]
+- [[Constructivism in International Relations - Social Construction of Power, Anarchy, and Wendt's Formulations]]
+- [[Consumer Choice Theory - Marginal Utility, Indifference Curves, and Budget Constraints]]
 - [[Creative Destruction and Schumpeterian Innovation]]
+- [[Credit Default Swaps (CDS) - Synthetic Derivatives, Counterparty Risk, and AIG]]
+- [[Critical Mineral Supply Chains - Rare Earths, Lithium Triangle, and Clean Energy Geostrategy]]
+- [[Cryptocurrencies and Blockchain Economics - Proof-of-Work, Smart Contracts, and DeFi]]
+- [[Currency Wars and Competitive Devaluation - Beggar-Thy-Neighbor Policies and Mercantilism]]
+- [[Cyber Warfare and Critical Infrastructure - Nation-State Cyber Operations and the Tallinn Manual]]
+- [[Deflationary Spirals and Debt Deflation - Irving Fisher's Theory and Great Contractions]]
+- [[Demographic Transitions and Aging Societies - Dependency Ratios, Pension Crises, and Silver Economies]]
+- [[Dependency Theory and World Systems Analysis - Core, Periphery, and Unequal Exchange]]
+- [[Economic Sanctions and Financial Statecraft - SWIFT Exclusion, Asset Freezes, and Secondary Sanctions]]
+- [[Energy Geopolitics - Nord Stream, Natural Gas Pipeline Politics, and European Energy Security]]
+- [[Externalities and Market Failure - Pigouvian Taxes and Cap-and-Trade Systems]]
 - [[Fiat Currency, Fractional Reserve Banking, and the Money Multiplier]]
+- [[Fiscal Policy vs Monetary Policy - Multipliers, Crowding-Out, and Policy Mix]]
+- [[Foreign Exchange (Forex) Markets - Purchasing Power Parity and Covered Interest Parity]]
+- [[Free Trade Agreements - NAFTA-USMCA, CPTPP, and Regional Trade Blocs]]
+- [[Game Theory and Oligopoly - Nash Equilibrium, Cournot, Bertrand, and Stackelberg Models]]
 - [[Game Theory in Geopolitics - Deterrence, Brinkmanship, and MAD]]
+- [[Global Supply Chains and Nearshoring - Friendshoring, Just-in-Time, and Strategic Decoupling]]
+- [[Gross Domestic Product (GDP) - Nominal, Real, and Purchasing Power Parity (PPP)]]
+- [[Halford Mackinder's Heartland Theory and Nicholas Spykman's Rimland Theory]]
+- [[High-Frequency Trading (HFT) - Algorithmic Market Making, Latency Arbitrage, and Flash Crashes]]
+- [[Hybrid Warfare and Gray-Zone Conflicts - Asymmetric Tactics, Proxy Forces, and Plausible Deniability]]
+- [[Hydro-Politics and Water Geopolitics - Transboundary River Basins, Nile Grand Renaissance Dam, and Indus Treaty]]
+- [[Inflation and Hyperinflation - Demand-Pull, Cost-Push, and Monetary Collapse]]
+- [[Institutions and Economic Development - Inclusive vs Extractive Institutions (Why Nations Fail)]]
 - [[Keynesian Economics - Aggregate Demand, Fiscal Stimulus, and Liquidity Traps]]
+- [[Liberal Internationalism and Democratic Peace Theory - Institutional Interdependence and Kantian Triad]]
+- [[Market Structures - Perfect Competition, Monopolistic Competition, Oligopoly, and Monopoly]]
+- [[Microfinance and Social Entrepreneurship - Muhammad Yunus, Grameen Bank, and Poverty Alleviation]]
 - [[Modern Monetary Theory (MMT) - Sovereign Currency and Fiscal Limits]]
 - [[Modern Portfolio Theory - Markowitz Efficient Frontier and CAPM]]
 - [[Monetarism - Milton Friedman, The Quantity Theory of Money, and Volcker]]
+- [[Multinational Corporations and Base Erosion (BEPS) - Transfer Pricing and Global Minimum Tax]]
+- [[NATO Expansion and European Security Architecture - Article 5, Deterrence, and Collective Defense]]
+- [[National Debt and Fiscal Deficits - Sovereign Debt-to-GDP and Intergenerational Equity]]
+- [[Natural Monopolies - Economies of Scale and Public Utility Rate Regulation]]
 - [[OPEC, Petrodollars, and the Geopolitics of Energy]]
+- [[Opportunity Cost, Sunk Cost Fallacy, and Economic Rent]]
+- [[Price Discrimination - First, Second, and Third Degree Surplus Extraction]]
+- [[Public Goods and Club Goods - Non-Rivalry, Non-Excludability, and Free-Rider Dilemmas]]
+- [[Quantitative Easing and Quantitative Tightening - Balance Sheet Expansion and Runoff]]
+- [[Realism and Neorealism in International Relations - Anarchy, Balance of Power, and Mearsheimer's Offensive Realism]]
+- [[Rostow's Stages of Economic Growth - Modernization Theory and the Take-Off Paradigm]]
+- [[Shadow Banking System - Repurchase Agreements, Money Market Funds, and Systemic Fragility]]
+- [[Shock Therapy and Post-Soviet Transition - Privatization, Oligarchy, and Hyper-Inflation]]
+- [[Sovereign Wealth Funds (SWFs) - Petrodollar Accumulation, Governance, and Global Asset Allocation]]
+- [[Stagflation and the 1970s Oil Shocks - Supply Crises and Policy Paralysis]]
+- [[Strategic Chokepoints - The Strait of Malacca, Hormuz, Bab-el-Mandeb, and Global Maritime Chokehold]]
+- [[Supply and Demand Elasticity - Price, Income, and Cross-Price Sensitivities]]
 - [[Supply-Side Economics - The Laffer Curve and Deregulation]]
+- [[Tariffs, Non-Tariff Barriers, and Modern Protectionism - Welfare Losses and Trade Wars]]
+- [[Terms of Trade and the Prebisch-Singer Hypothesis - Commodity Dependency in the Global South]]
+- [[The 2008 Global Financial Crisis - Subprime Mortgages, CDOs, and Systemic Meltdown]]
 - [[The Austrian School of Economics - Mises, Hayek, and the Calculation Problem]]
+- [[The BRICS Expansion and South-South Cooperation - De-Dollarization, New Development Bank, and Multipolarity]]
 - [[The Black-Scholes-Merton Options Pricing Model]]
 - [[The Bretton Woods System - IMF, World Bank, and the Gold Standard]]
+- [[The Business Cycle - Expansion, Peak, Contraction, and Macroeconomic Stabilization]]
 - [[The Coase Theorem and Transaction Costs]]
 - [[The Dutch Disease and the Resource Curse]]
+- [[The East Asian Miracle - Export-Oriented Industrialization and the Developmental State]]
 - [[The Efficient Market Hypothesis (EMH) and Market Anomalies]]
+- [[The Enclosure Movement - Agricultural Productivity and the Genesis of Wage Labor]]
 - [[The European Single Market and the Four Freedoms]]
 - [[The Gini Coefficient and Economic Inequality]]
+- [[The Great Depression of 1929 - The Wall Street Crash, Bank Runs, and the New Deal]]
 - [[The Hegemonic Stability Theory and The Thucydides Trap]]
+- [[The Industrial Revolution - Steam, Capital Accumulation, and the Great Divergence]]
+- [[The Inverted Yield Curve - Bond Yields, Term Premia, and Recession Forecasting]]
+- [[The Marshall Plan - Post-WWII European Recovery, ERP, and Transatlantic Integration]]
+- [[The Middle-Income Trap - Wage Pressures, Industrial Upgrading, and Growth Stagnation]]
 - [[The Mundell-Fleming Trilemma - The Impossible Trinity]]
+- [[The Nuclear Non-Proliferation Treaty (NPT) - Mutually Assured Destruction and Deterrence Stability]]
+- [[The Phillips Curve - Inflation, Unemployment, and NAIRU Dynamics]]
 - [[The Rise of China - Reform and Opening Up, WTO, and the Belt and Road]]
+- [[The South China Sea Dispute - UNCLOS, Nine-Dash Line, Island Militarization, and Freedom of Navigation]]
 - [[The Sovereign Debt Crisis - The Eurozone, Greece, and Austerity]]
 - [[The Tragedy of the Commons and Elinor Ostrom's Common-Pool Resources]]
 - [[The Triffin Dilemma and the Collapse of the Gold Standard]]
 - [[The Washington Consensus and Structural Adjustment Programs (SAPs)]]
 - [[The Washington Consensus vs The Beijing Consensus]]
+- [[The World Trade Organization (WTO) - GATT Principles, Dispute Settlement, and Most-Favored-Nation]]
+- [[Venture Capital and Private Equity - Leveraged Buyouts (LBOs), Carried Interest, and Growth Equity]]
 
-## History & Civilizations
+## History & Civilizations (100 notes)
 
 - [[Alexander the Great and the Hellenistic World]]
 - [[Ancient Egyptian Hieroglyphs and the Rosetta Stone]]
@@ -162,7 +231,7 @@
 - [[World War I - Trench Warfare, Alliances, and the Treaty of Versailles]]
 - [[World War II - Total War, the Holocaust, and Nuclear Weapons]]
 
-## Philosophy & Mind
+## Philosophy & Mind (104 notes)
 
 - [[12 Japanese Wisdoms]]
 - [[Albert Camus - The Myth of Sisyphus and Philosophical Absurdism]]
@@ -269,7 +338,7 @@
 - [[W.V.O. Quine - Two Dogmas of Empiricism and Holism]]
 - [[Wabi-Sabi]]
 
-## Science & Technology\Animal Kingdom & Zoology
+## Science & Technology\Animal Kingdom & Zoology (100 notes)
 
 - [[Albatross Dynamic Soaring and Oceanic Wind Gradients]]
 - [[Amphibian Metamorphosis - Thyroid Hormones, Apoptosis, and Gill Resorption]]
@@ -372,7 +441,7 @@
 - [[Whales and Cetaceans - Mammalian Ocean Giants]]
 - [[Woodpecker Shock Absorption and Hyoid Bone Suspension]]
 
-## Science & Technology\Chemistry & Elements
+## Science & Technology\Chemistry & Elements (100 notes)
 
 - [[Acids, Bases, and the pH Scale]]
 - [[Aerogel - The World's Lightest Solid]]
@@ -475,7 +544,7 @@
 - [[Transition Metals - d-Block Catalysts and Colored Compounds]]
 - [[Water as the Universal Solvent - Polarity and Hydrogen Bonds]]
 
-## Science & Technology\Earth & Geology
+## Science & Technology\Earth & Geology (100 notes)
 
 - [[Atmospheric Hadley, Ferrel, and Polar Circulation Cells]]
 - [[Banded Iron Formations (BIFs) and the Great Oxidation Event]]
@@ -578,7 +647,7 @@
 - [[Weather Systems and Extreme Storms]]
 - [[Weathering and Erosion]]
 
-## Science & Technology\Human Anatomy & Physiology
+## Science & Technology\Human Anatomy & Physiology (100 notes)
 
 - [[ATP Synthase - The Body's Rotary Molecular Engine]]
 - [[Acid-Base Homeostasis - Renal and Respiratory Compensation]]
@@ -681,7 +750,7 @@
 - [[Vestibular Equilibrium - Semicircular Canals and Otolith Organs]]
 - [[Visual Phototransduction - Rhodopsin, 11-cis-Retinal, and cGMP]]
 
-## Science & Technology\Inventions & Computing
+## Science & Technology\Inventions & Computing (104 notes)
 
 - [[Artificial Intelligence - From Expert Systems to Neural Networks]]
 - [[Artificial Intelligence and Computing]]
@@ -788,7 +857,7 @@
 - [[Zero Trust Architecture and Modern Identity Management]]
 - [[Zero-Knowledge Proofs - zk-SNARKs and Interactive Proof Systems]]
 
-## Science & Technology\Mathematics & Logic
+## Science & Technology\Mathematics & Logic (100 notes)
 
 - [[Abstract Algebra - Group Theory and Symmetry Operations]]
 - [[Algebraic Geometry - Affine Varieties, Ideals, and Hilbert's Nullstellensatz]]
@@ -891,7 +960,7 @@
 - [[Wavelet Theory - Continuous vs Discrete Wavelet Transforms and Multiresolution]]
 - [[Zermelo-Fraenkel Set Theory (ZFC) and the Axiom of Choice]]
 
-## Science & Technology\Medicine & Disease
+## Science & Technology\Medicine & Disease (100 notes)
 
 - [[Alzheimer's Disease - Amyloid Beta Plaques and Neurofibrillary Tangles]]
 - [[Alzheimer's Disease - Amyloid Plaques and Tau Tangles]]
@@ -994,7 +1063,7 @@
 - [[Zoonotic Diseases - Spillover from Wildlife to Humans]]
 - [[p53 - The Guardian of the Genome and Cancer Suppression]]
 
-## Science & Technology\Physics & Mechanics
+## Science & Technology\Physics & Mechanics (100 notes)
 
 - [[Acoustics - Resonance, Harmonic Overtones, and the Speed of Sound]]
 - [[Acoustics and Sound Waves - Frequency and Resonance]]
@@ -1097,7 +1166,7 @@
 - [[Wave Mechanics - The Doppler Effect, Huygens' Principle, and Diffraction]]
 - [[Wave-Particle Duality and the Double-Slit Experiment]]
 
-## Science & Technology\Plant Biology & Ecology
+## Science & Technology\Plant Biology & Ecology (100 notes)
 
 - [[Algae and Phytoplankton - The Ocean's Lungs]]
 - [[Algae and Seaweeds - Marine Macroalgal Forests]]
@@ -1200,7 +1269,7 @@
 - [[Tundra and Permafrost - Life on the Frozen Edge]]
 - [[Xylem and Phloem - The Plant Vascular Plumbing]]
 
-## Science & Technology\Prehistory & Dinosaurs
+## Science & Technology\Prehistory & Dinosaurs (100 notes)
 
 - [[Allosaurus - Apex Predator of the Jurassic]]
 - [[Ammonites and Belemnites - Cephalopod Index Fossils of the Mesozoic]]
@@ -1303,7 +1372,7 @@
 - [[Velociraptor mongoliensis - Sickle Claws and Quill Knobs]]
 - [[Woolly Mammoth (Mammuthus primigenius) Cold Adaptations]]
 
-## Science & Technology\Space & Astronomy
+## Science & Technology\Space & Astronomy (100 notes)
 
 - [[Active Galactic Nuclei (AGN) and Blazar Relativistic Jets]]
 - [[Apollo 11 - The Moon Landing]]
@@ -1406,7 +1475,7 @@
 - [[Venus - The Greenhouse Furnace]]
 - [[Voyager Missions - Into Interstellar Space]]
 
-## World Literature & Mythology
+## World Literature & Mythology (20 notes)
 
 - [[Beowulf and Old English Heroic Poetry]]
 - [[Crime and Punishment - Dostoevsky, Nihilism, and Moral Redemption]]
