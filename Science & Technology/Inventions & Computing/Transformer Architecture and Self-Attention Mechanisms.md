@@ -1,42 +1,30 @@
 ---
-tags:
-  - artificial-intelligence
-  - natural-language-processing
-  - deep-learning
-category: Science & Technology/Inventions & Computing
-related:
-  - "[[Artificial Neural Networks - Perceptrons and Multi-Layer Backpropagation]]"
-  - "[[Convolutional Neural Networks (CNNs) and Computer Vision]]"
+title: "Transformer Architecture and Self-Attention Mechanisms"
+tags: [computing, artificial-intelligence, deep-learning, natural-language-processing]
+related: [[[Artificial Neural Networks - Backpropagation and Gradient Descent]], [[Information Theory - Shannon Entropy and Channel Capacity]]]
 created: 2026-11-26
+updated: 2026-11-26
 ---
 
 # Transformer Architecture and Self-Attention Mechanisms
 
 ## Overview
-The Transformer, introduced by Vaswani et al. (2017) in 'Attention Is All You Need', is a neural network architecture based entirely on self-attention mechanisms, powering modern Large Language Models (LLMs).
+The Transformer architecture (Vaswani et al., 2017) revolutionized machine learning by replacing sequential recurrent connections with parallelized multi-head self-attention mechanisms.
 
----
+## Core Mechanics & Foundations
+Scaled Dot-Product Attention: For input matrix $X$, linear projections compute Queries ($Q = X W_Q$), Keys ($K = X W_K$), and Values ($V = X W_V$). The attention weight distribution is calculated as: $\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{Q K^T}{\sqrt{d_k}}\right) V$. Dividing by $\sqrt{d_k}$ prevents dot products from growing excessively large, avoiding vanishing gradients in the softmax.
 
-## 1. Theoretical Foundations & Governing Principles
-Scaled Dot-Product Self-Attention: Computes attention weights between all token pairs in parallel across Query ($Q$), Key ($K$), and Value ($V$) matrices:
+## Modern Applications & Advanced Significance
+Multi-Head Parallelism & Positional Encoding: Multi-Head Attention projects $Q, K, V$ into $h$ distinct representation subspaces simultaneously. Because self-attention has no inherent spatial or sequential order, sinusoidal or rotary positional embeddings (RoPE) are added to inject token sequence coordinates.
 
-$$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{Q K^T}{\sqrt{d_k}}\right) V$$
+## Real-World Impact & Systems
+Large Language Models (GPT-4, Claude, Gemini), protein folding structure prediction (AlphaFold), computer vision (Vision Transformers / ViT).
 
-Enables direct modeled connections across arbitrary token distances without recurrence.
+## Key Terminology
+- **Self-Attention**: Mechanism allowing each token in a sequence to dynamically attend to and weigh all other tokens in the context window.
+- **Multi-Head Attention**: Parallel execution of multiple self-attention operations allowing the model to jointly attend to information from different representation subspaces.
+- **Positional Encoding**: Vector added to token embeddings to communicate sequence order to permutation-invariant self-attention layers.
 
----
 
-## 2. Structural Mechanics & Scientific Analysis
-Multi-Head Attention & Positional Encoding: Projecting queries, keys, and values into multiple subspace heads captures diverse syntactic and semantic relationships; sinusoidal positional encodings inject sequence order.
-
----
-
-## 3. Real-World Applications & Technological Impact
-Large Language Models (GPT-4, Gemini, Claude), automated neural language translation, genomic protein structure prediction (AlphaFold), and computer vision (ViT).
-
----
-
-## Key Terms
-- **Self-Attention**: Mechanism allowing a neural sequence model to weigh the relevance of all tokens against each other.
-- **Transformer**: Deep learning architecture relying exclusively on parallel attention mechanisms without recurrence.
-- **Tokenization**: Process of converting raw text into numeric integer token sequences for model consumption.
+## References & Further Exploration
+[[Artificial Neural Networks - Backpropagation and Gradient Descent]], [[Information Theory - Shannon Entropy and Channel Capacity]]
