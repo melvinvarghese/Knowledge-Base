@@ -2,7 +2,7 @@
 
 > Complete catalog of notes organized by domain and topic.
 
-**Total Notes**: 1443
+**Total Notes**: 1470
 
 ## Art, Music & Architecture (14 notes)
 
@@ -1475,25 +1475,52 @@
 - [[Venus - The Greenhouse Furnace]]
 - [[Voyager Missions - Into Interstellar Space]]
 
-## World Literature & Mythology (20 notes)
+## World Literature & Mythology (47 notes)
 
+- [[Aztec Cosmogony - The Legend of the Five Suns, Quetzalcoatl, and Huitzilopochtli]]
 - [[Beowulf and Old English Heroic Poetry]]
+- [[Celtic Mythology - The Tuatha Dé Danann, Cú Chulainn, and the Ulster Cycle]]
+- [[Chinese Mythology - Pangu, Nuwa, the Jade Emperor, and Chinese Dragon Lore]]
 - [[Crime and Punishment - Dostoevsky, Nihilism, and Moral Redemption]]
 - [[Don Quixote - Cervantes and the Birth of the Modern Novel]]
 - [[Dream of the Red Chamber - Cao Xueqin and Late Imperial Decline]]
 - [[Egyptian Cosmogony - The Heliopolitan Ogdoad, Osiris, and Isis]]
+- [[Epic of Sundiata - The Lion King of Mali, Griot Oral Epics, and Mandinka Empire]]
 - [[Faust and the Faustian Bargain - Goethe and Romantic Humanism]]
 - [[Greek Mythology - The Olympian Pantheon, Titanomachy, and Fate]]
+- [[Hindu Mythology - The Trimurti, Puranic Cosmology, and Avatars of Vishnu]]
 - [[Journey to the West - Sun Wukong and the Monkey King Legend]]
+- [[Medea and The Bacchae - Euripides, Passion, Hubris, and Dionysian Frenzy]]
 - [[Mesopotamian Cosmogony - Enuma Elish and the Triumph of Marduk]]
 - [[Norse Mythology - Yggdrasil, Odin, Thor, and Ragnarok]]
+- [[Oedipus Rex and Antigone - Sophocles, Tragic Irony, and Divine vs Human Law]]
 - [[One Thousand and One Nights - Scheherazade and Frame Narrative Architecture]]
+- [[Paradise Lost - John Milton, The Fall of Lucifer, and Theological Free Will]]
+- [[Shahnameh (The Book of Kings) - Ferdowsi, Rostam, and Persian National Identity]]
+- [[Shinto Mythology - Izanami, Izanagi, Amaterasu, and the Kojiki]]
+- [[Slavic Mythology - Perun, Veles, and the World Tree]]
 - [[The Aeneid - Virgil, Roman Imperial Destiny, and Pietas]]
 - [[The Arthurian Legend - Camelot, the Round Table, and the Holy Grail]]
+- [[The Canterbury Tales - Geoffrey Chaucer, Middle English Pilgrimage, and Estate Satire]]
+- [[The Decameron - Giovanni Boccaccio, Plague Literature, and Vernacular Humanism]]
 - [[The Divine Comedy - Dante's Inferno, Purgatorio, and Paradiso]]
+- [[The Epic of Gilgamesh - Uruk, Enkidu, the Cedar Forest, and the Quest for Immortality]]
 - [[The Iliad and The Odyssey - Homeric Epic and Oral Tradition]]
+- [[The Kalevala - Elias Lönnrot, Finnish National Epic, and the Sampo Myth]]
 - [[The Mahabharata and The Ramayana - Sanskrit Epics of Dharma]]
+- [[The Metamorphoses - Ovid, Roman Mythological Synthesis, and Psychological Change]]
+- [[The Nibelungenlied - Siegfried, Brunhild, Hagen, and Germanic Heroic Tragedy]]
+- [[The Oresteia - Aeschylus, Blood Guilt, and the Birth of Civic Justice]]
+- [[The Panchatantra - Animal Fables, Political Statecraft, and Niti Traditions]]
 - [[The Plays of William Shakespeare - Tragedy, Soliloquy, and the Globe]]
+- [[The Popol Vuh - Maya K'iche' Creation Myth, the Hero Twins, and Xibalba]]
+- [[The Prince and The Mandrake - Niccolò Machiavelli and Political Satire]]
+- [[The Romance of the Three Kingdoms - Luo Guanzhong, Strategic Treachery, and Chinese Historiography]]
+- [[The Song of Roland (Chanson de Roland) - Old French Chivalric Epic and Charlemagne]]
+- [[The Song of the Cid (Cantar de Mio Cid) - Spanish Reconquista and Heroic Honor]]
 - [[The Tale of Genji - Murasaki Shikibu and Heian Courtly Elegance]]
 - [[Ulysses and The Modernist Novel - James Joyce and Stream of Consciousness]]
 - [[War and Peace - Leo Tolstoy, Historicism, and the Great Man Critique]]
+- [[Water Margin (Outlaws of the Marsh) - Shi Nai'an, Righteous Bandits, and Peasant Rebellion]]
+- [[Yoruba Mythology and the Orishas - Olodumare, Obatala, and Eshu the Trickster]]
+- [[Zoroastrian Cosmogony - Ahura Mazda, Angra Mainyu, and Dualistic Eschatology]]
