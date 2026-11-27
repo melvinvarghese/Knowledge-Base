@@ -153,6 +153,13 @@
         "a": 1,
         "rgb": 16766720
       }
+    },
+    {
+      "query": "path:\"Sociology & Anthropology\"",
+      "color": {
+        "a": 1,
+        "rgb": 5592575
+      }
     }
   ],
   "collapse-display": true,
